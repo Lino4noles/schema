@@ -1,0 +1,6922 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meta vs Schema Comparison - sit</title>
+<style>
+  body { font-family: system-ui, Arial; padding: 20px; }
+  h1, h2 { color: #222; }
+  table { border-collapse: collapse; width: 100%; table-layout: fixed; word-wrap: break-word; margin-top: 10px; }
+  th, td { border: 1px solid #ccc; padding: 8px; font-size: 12px; text-align: left; vertical-align: top; }
+  th { background: #f3f3f3; }
+  tr:nth-child(even) { background: #fafafa; }
+  a { color: #1a73e8; text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+  <h1>Meta, Description & Headline Comparison — sit</h1>
+  <p>Generated: 13-10-2025 - 09-52 PM</p>
+  
+      <h2 style="margin-top:40px;">🌐 Locale: en-ca</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/franchising" target="_blank">https://www.sit.orangetheory.com/en-ca/franchising</a></td>
+            <td>en-CA</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Canada</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Own An Orangetheory Fitness Studio.</td>
+            <td >• Own An Orangetheory Fitness Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/workout" target="_blank">https://www.sit.orangetheory.com/en-ca/workout</a></td>
+            <td>en-CA</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Canada</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/memberships" target="_blank">https://www.sit.orangetheory.com/en-ca/memberships</a></td>
+            <td>en-CA</td>
+            <td >Gym Membership | Orangetheory Fitness Canada</td>
+            <td >Gym Membership | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Canada, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Canada, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for All.</td>
+            <td >• Flexible Memberships for All.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/faq" target="_blank">https://www.sit.orangetheory.com/en-ca/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Canada</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently Asked Questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-ca/promotion-terms</a></td>
+            <td>en-CA</td>
+            <td >Promotion Terms | Orangetheory Fitness Canada</td>
+            <td >Promotion Terms | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/locations" target="_blank">https://www.sit.orangetheory.com/en-ca/locations</a></td>
+            <td>en-CA</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Canada</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Canada and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Canada and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca" target="_blank">https://www.sit.orangetheory.com/en-ca</a></td>
+            <td>en-CA</td>
+            <td >Group Fitness Class & Heart Rate-Based Interval Training</td>
+            <td >Group Fitness Class & Heart Rate-Based Interval Training</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Canada — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Canada — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/articles" target="_blank">https://www.sit.orangetheory.com/en-ca/articles</a></td>
+            <td>en-CA</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Canada</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/studio-location" target="_blank">https://www.sit.orangetheory.com/en-ca/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/careers" target="_blank">https://www.sit.orangetheory.com/en-ca/careers</a></td>
+            <td>en-CA</td>
+            <td >Work For Orangetheory | Orangetheory Fitness Canada</td>
+            <td >Work For Orangetheory | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Do you have a passion for fitness and motivating all types of people? We want to hear from you! Find out more about joining the Orangetheory Canada team.</td>
+            <td >Do you have a passion for fitness and motivating all types of people? We want to hear from you! Find out more about joining the Orangetheory Canada team.</td>
+            <td>✅ Match</td>
+            <td>We Work Hard so Others Can Live More.</td>
+            <td >• We Work Hard so Others Can Live More.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/real-estate" target="_blank">https://www.sit.orangetheory.com/en-ca/real-estate</a></td>
+            <td>en-CA</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/press" target="_blank">https://www.sit.orangetheory.com/en-ca/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-ca/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-ca/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: fr-ca</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/workout" target="_blank">https://www.sit.orangetheory.com/fr-ca/workout</a></td>
+            <td>fr-CA</td>
+            <td >Entraînement HIIT basé sur la fréquence cardiaque | Orangetheory Fitness Canada</td>
+            <td >Entraînement HIIT basé sur la fréquence cardiaque | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Contrairement au HIIT, lors d'un cours d'Orangetheory Fitness, vous ajustez votre niveau d'effort en fonction des données de notre moniteur de fréquence cardiaque OTBeat. Essayez-nous gratuitement aujourd'hui !</td>
+            <td >Contrairement au HIIT, lors d'un cours d'Orangetheory Fitness, vous ajustez votre niveau d'effort en fonction des données de notre moniteur de fréquence cardiaque OTBeat. Essayez-nous gratuitement aujourd'hui !</td>
+            <td>✅ Match</td>
+            <td>Découvrez un programme complet de force et de cardio.</td>
+            <td >• Découvrez un programme complet de force et de cardio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/faq" target="_blank">https://www.sit.orangetheory.com/fr-ca/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Questions Fréquemment Posées | Orangetheory Fitness Canada</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Vous avez des questions sur Orangetheory Fitness ? Découvrez notre section de questions fréquemment posées pour trouver plus d'informations concernant notre entraînement et bien plus encore !</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Questions fréquentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/memberships" target="_blank">https://www.sit.orangetheory.com/fr-ca/memberships</a></td>
+            <td>fr-CA</td>
+            <td >Gym Adhésion | Orangetheory Fitness Canada</td>
+            <td >Gym Adhésion | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Choisissez parmi 3 forfaits d'adhésion à la salle de sport différents chez Orangetheory Fitness, ou achetez des forfaits de cours - 10, 20 ou 30. Voyez lequel vous convient le mieux !</td>
+            <td >Choisissez parmi 3 forfaits d'adhésion à la salle de sport différents chez Orangetheory Fitness, ou achetez des forfaits de cours - 10, 20 ou 30. Voyez lequel vous convient le mieux !</td>
+            <td>✅ Match</td>
+            <td>Adhésions flexibles pour tous.</td>
+            <td >• Adhésions flexibles pour tous.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/franchising" target="_blank">https://www.sit.orangetheory.com/fr-ca/franchising</a></td>
+            <td>fr-CA</td>
+            <td >Possibilités de franchisage | Orangetheory Fitness Canada</td>
+            <td >Possibilités de franchisage | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Chez Orangetheory Fitness, nous préparons nos membres et nos partenaires de franchisage à réussir. En savoir plus sur notre mission de créer un monde plus sain.</td>
+            <td >Chez Orangetheory Fitness, nous préparons nos membres et nos partenaires de franchisage à réussir. En savoir plus sur notre mission de créer un monde plus sain.</td>
+            <td>✅ Match</td>
+            <td>Posséder un Studio Orangetheory Fitness</td>
+            <td >• Posséder un Studio Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/locations" target="_blank">https://www.sit.orangetheory.com/fr-ca/locations</a></td>
+            <td>fr-CA</td>
+            <td >Trouvez des cours de conditionnement physique près de chez vous | Orangetheory Fitness Canada</td>
+            <td >Trouvez des cours de conditionnement physique près de chez vous | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Trouvez un studio de conditionnement physique Orangetheory près de chez vous au Canada et découvrez comment vous pouvez essayer notre entraînement de haute intensité gratuitement!</td>
+            <td >Trouvez un studio de conditionnement physique Orangetheory près de chez vous au Canada et découvrez comment vous pouvez essayer notre entraînement de haute intensité gratuitement!</td>
+            <td>✅ Match</td>
+            <td>Trouvez un studio de fitness Orangetheory près de chez vous.</td>
+            <td >• Trouvez un studio de fitness Orangetheory près de chez vous.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca" target="_blank">https://www.sit.orangetheory.com/fr-ca</a></td>
+            <td>fr-CA</td>
+            <td >Cours de conditionnement physique en groupe et entraînement par intervalles basé sur la fréquence cardiaque</td>
+            <td >Cours de conditionnement physique en groupe et entraînement par intervalles basé sur la fréquence cardiaque</td>
+            <td>✅ Match</td>
+            <td >Joignez-vous aux meilleurs cours de conditionnement physique en groupe avec Orangetheory — des cours d'entraînement conçus pour offrir un entraînement complet dans un environnement de soutien. Essayez-nous gratuitement aujourd'hui !</td>
+            <td >Joignez-vous aux meilleurs cours de conditionnement physique en groupe avec Orangetheory — des cours d'entraînement conçus pour offrir un entraînement complet dans un environnement de soutien. Essayez-nous gratuitement aujourd'hui !</td>
+            <td>✅ Match</td>
+            <td>Développez du muscle.Brûlez des calories.Obtenez des résultats.</td>
+            <td >• Développez du muscle.Brûlez des calories.Obtenez des résultats.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/promotion-terms" target="_blank">https://www.sit.orangetheory.com/fr-ca/promotion-terms</a></td>
+            <td>fr-CA</td>
+            <td >Conditions de promotion | Orangetheory Fitness Canada</td>
+            <td >Conditions de promotion | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >En savoir plus sur les conditions de nos promotions actuelles chez Orangetheory Fitness.</td>
+            <td >En savoir plus sur les conditions de nos promotions actuelles chez Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Conditions de promotion.</td>
+            <td >• Conditions de promotion.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/studio-location" target="_blank">https://www.sit.orangetheory.com/fr-ca/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Emplacements de studio global | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consultez notre liste complète des studios Orangetheory Fitness à travers le monde. Trouvez un emplacement Orangetheory Fitness près de chez vous!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Studios Globaux</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/articles" target="_blank">https://www.sit.orangetheory.com/fr-ca/articles</a></td>
+            <td>fr-CA</td>
+            <td >Articles de remise en forme et de bien-être | Orangetheory Fitness Canada</td>
+            <td >Articles de remise en forme et de bien-être | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Communiquez avec les experts du fitness Orangetheory Fitness en lisant leurs meilleurs articles conçus pour vous aider dans votre voyage de fitness et de bien-être.</td>
+            <td >Communiquez avec les experts du fitness Orangetheory Fitness en lisant leurs meilleurs articles conçus pour vous aider dans votre voyage de fitness et de bien-être.</td>
+            <td>✅ Match</td>
+            <td>Tous les articles</td>
+            <td >• Tous les articles</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/real-estate" target="_blank">https://www.sit.orangetheory.com/fr-ca/real-estate</a></td>
+            <td>fr-CA</td>
+            <td >Immobilier | Orangetheory Fitness</td>
+            <td >Immobilier | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Consultez les informations sur l'immobilier ici.</td>
+            <td >Consultez les informations sur l'immobilier ici.</td>
+            <td>✅ Match</td>
+            <td>Immobilier.</td>
+            <td >• Immobilier.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/careers" target="_blank">https://www.sit.orangetheory.com/fr-ca/careers</a></td>
+            <td>fr-CA</td>
+            <td >Travailler pour Orangetheory | Orangetheory Fitness Canada</td>
+            <td >Travailler pour Orangetheory | Orangetheory Fitness Canada</td>
+            <td>✅ Match</td>
+            <td >Avez-vous une passion pour le fitness et la motivation de tous les types de personnes? Nous voulons avoir de vos nouvelles! Apprenez-en davantage sur la façon de vous joindre à l’équipe d’Orangetheory Canada.</td>
+            <td >Avez-vous une passion pour le fitness et la motivation de tous les types de personnes? Nous voulons avoir de vos nouvelles! Apprenez-en davantage sur la façon de vous joindre à l’équipe d’Orangetheory Canada.</td>
+            <td>✅ Match</td>
+            <td>Nous travaillons dur pour que d'autres puissent vivre plus.</td>
+            <td >• Nous travaillons dur pour que d'autres puissent vivre plus.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/press" target="_blank">https://www.sit.orangetheory.com/fr-ca/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Presse | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Voir les informations liées à la presse ici.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory dans la presse<br>• Demandes de renseignements des médias</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/fr-ca/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/fr-ca/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 raisons pour lesquelles les gens n'essaient pas le DriTri d'Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Pensez-vous que vous ne pouvez pas gérer le rameur ? Vous redoutez le tapis ? Il est temps de conquérir vos peurs et de participer à l'événement inspiré du triathlon d'Orangetheory, le DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 raisons pour lesquelles les gens n'essaient pas le DriTri d'Orangetheory.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-co</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/locations" target="_blank">https://www.sit.orangetheory.com/en-co/locations</a></td>
+            <td>en-CO</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Colombia</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Colombia and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Colombia and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co" target="_blank">https://www.sit.orangetheory.com/en-co</a></td>
+            <td>en-CO</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/workout" target="_blank">https://www.sit.orangetheory.com/en-co/workout</a></td>
+            <td>en-CO</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Colombia</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/memberships" target="_blank">https://www.sit.orangetheory.com/en-co/memberships</a></td>
+            <td>en-CO</td>
+            <td >Gym Membership | Orangetheory Fitness Colombia</td>
+            <td >Gym Membership | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Colombia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Colombia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/faq" target="_blank">https://www.sit.orangetheory.com/en-co/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Colombia</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Colombia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-co/promotion-terms</a></td>
+            <td>en-CO</td>
+            <td >Promotion Terms | Orangetheory Fitness Colombia</td>
+            <td >Promotion Terms | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/real-estate" target="_blank">https://www.sit.orangetheory.com/en-co/real-estate</a></td>
+            <td>en-CO</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/articles" target="_blank">https://www.sit.orangetheory.com/en-co/articles</a></td>
+            <td>en-CO</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Colombia</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Colombia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Colombia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/studio-location" target="_blank">https://www.sit.orangetheory.com/en-co/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-co/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/careers" target="_blank">https://www.sit.orangetheory.com/en-co/careers</a></td>
+            <td>en-CO</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/press" target="_blank">https://www.sit.orangetheory.com/en-co/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-co/franchising" target="_blank">https://www.sit.orangetheory.com/en-co/franchising</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">Franchising Opportunities | Orangetheory Fitness Colombia</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">At Orangetheory Fitness Colombia, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;"><i>No H1 found</i></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">0</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-co</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co" target="_blank">https://www.sit.orangetheory.com/es-co</a></td>
+            <td>es-CO</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/workout" target="_blank">https://www.sit.orangetheory.com/es-co/workout</a></td>
+            <td>es-CO</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardiaco | Orangetheory Fitness Colombia</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardiaco | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/memberships" target="_blank">https://www.sit.orangetheory.com/es-co/memberships</a></td>
+            <td>es-CO</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Colombia</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Colombia, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Colombia, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-co/promotion-terms</a></td>
+            <td>es-CO</td>
+            <td >Términos de Promoción | Orangetheory Fitness Colombia</td>
+            <td >Términos de Promoción | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de Promoción.</td>
+            <td >• Términos de Promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/franchising" target="_blank">https://www.sit.orangetheory.com/es-co/franchising</a></td>
+            <td>es-CO</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Colombia</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/locations" target="_blank">https://www.sit.orangetheory.com/es-co/locations</a></td>
+            <td>es-CO</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Colombia</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Colombia y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Colombia y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentre un Fitness Studio de Orangetheory cerca de usted.</td>
+            <td >• Encuentre un Fitness Studio de Orangetheory cerca de usted.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/faq" target="_blank">https://www.sit.orangetheory.com/es-co/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Colombia</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Mira nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/studio-location" target="_blank">https://www.sit.orangetheory.com/es-co/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/real-estate" target="_blank">https://www.sit.orangetheory.com/es-co/real-estate</a></td>
+            <td>es-CO</td>
+            <td >Bienes raíces | Orangetheory Fitness</td>
+            <td >Bienes raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes raíces.</td>
+            <td >• Bienes raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/articles" target="_blank">https://www.sit.orangetheory.com/es-co/articles</a></td>
+            <td>es-CO</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Colombia</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-co/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que las personas no prueban el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Crees que no puedes manejar el remo? ¿Temes la caminadora? Es hora de conquistar tus miedos y hacer el evento inspirado en triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las que las personas no intentan el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/press" target="_blank">https://www.sit.orangetheory.com/es-co/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-co/careers" target="_blank">https://www.sit.orangetheory.com/es-co/careers</a></td>
+            <td>es-CO</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-cr</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr" target="_blank">https://www.sit.orangetheory.com/en-cr</a></td>
+            <td>en-CR</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/workout" target="_blank">https://www.sit.orangetheory.com/en-cr/workout</a></td>
+            <td>en-CR</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Costa Rica</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/locations" target="_blank">https://www.sit.orangetheory.com/en-cr/locations</a></td>
+            <td>en-CR</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Costa Rica</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Costa Rica and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Costa Rica and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/memberships" target="_blank">https://www.sit.orangetheory.com/en-cr/memberships</a></td>
+            <td>en-CR</td>
+            <td >Gym Membership | Orangetheory Fitness Costa Rica</td>
+            <td >Gym Membership | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Costa Rica, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Costa Rica, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/faq" target="_blank">https://www.sit.orangetheory.com/en-cr/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Costa Rica</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Costa Rica? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/franchising" target="_blank">https://www.sit.orangetheory.com/en-cr/franchising</a></td>
+            <td>en-CR</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Costa Rica</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Costa Rica, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Costa Rica, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-cr/promotion-terms</a></td>
+            <td>en-CR</td>
+            <td >Promotion Terms | Orangetheory Fitness Costa Rica</td>
+            <td >Promotion Terms | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/real-estate" target="_blank">https://www.sit.orangetheory.com/en-cr/real-estate</a></td>
+            <td>en-CR</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/studio-location" target="_blank">https://www.sit.orangetheory.com/en-cr/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/articles" target="_blank">https://www.sit.orangetheory.com/en-cr/articles</a></td>
+            <td>en-CR</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Costa Rica</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Costa Rica by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Costa Rica by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/careers" target="_blank">https://www.sit.orangetheory.com/en-cr/careers</a></td>
+            <td>en-CR</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-cr/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-cr/press" target="_blank">https://www.sit.orangetheory.com/en-cr/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-cr</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr" target="_blank">https://www.sit.orangetheory.com/es-cr</a></td>
+            <td>es-CR</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/workout" target="_blank">https://www.sit.orangetheory.com/es-cr/workout</a></td>
+            <td>es-CR</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Costa Rica</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTbeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTbeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/memberships" target="_blank">https://www.sit.orangetheory.com/es-cr/memberships</a></td>
+            <td>es-CR</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness Costa Rica</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Costa Rica, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Costa Rica, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías flexibles para todos.</td>
+            <td >• Membresías flexibles para todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/faq" target="_blank">https://www.sit.orangetheory.com/es-cr/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Costa Rica</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/locations" target="_blank">https://www.sit.orangetheory.com/es-cr/locations</a></td>
+            <td>es-CR</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Costa Rica</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Costa Rica y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Costa Rica y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un Estudio de Orangetheory Fitness Cerca de Ti.</td>
+            <td >• Encuentra un Estudio de Orangetheory Fitness Cerca de Ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/franchising" target="_blank">https://www.sit.orangetheory.com/es-cr/franchising</a></td>
+            <td>es-CR</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Costa Rica</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos tanto a nuestros miembros como a nuestros socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos tanto a nuestros miembros como a nuestros socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-cr/promotion-terms</a></td>
+            <td>es-CR</td>
+            <td >Términos de promoción | Orangetheory Fitness Costa Rica</td>
+            <td >Términos de promoción | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de promoción.</td>
+            <td >• Términos de promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/articles" target="_blank">https://www.sit.orangetheory.com/es-cr/articles</a></td>
+            <td>es-CR</td>
+            <td >Artículos de fitness y bienestar | Orangetheory Fitness Costa Rica</td>
+            <td >Artículos de fitness y bienestar | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-cr/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que las personas no prueban el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Piensas que no puedes manejar el remo? ¿Temes la caminadora? Es momento de conquistar tus miedos y participar en el evento inspirado en triatlones de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las que la gente no prueba el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/real-estate" target="_blank">https://www.sit.orangetheory.com/es-cr/real-estate</a></td>
+            <td>es-CR</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/studio-location" target="_blank">https://www.sit.orangetheory.com/es-cr/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/press" target="_blank">https://www.sit.orangetheory.com/es-cr/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-cr/careers" target="_blank">https://www.sit.orangetheory.com/es-cr/careers</a></td>
+            <td>es-CR</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-do</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/locations" target="_blank">https://www.sit.orangetheory.com/en-do/locations</a></td>
+            <td>en-DO</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Dominican Republic</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Dominican Republic and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Dominican Republic and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do" target="_blank">https://www.sit.orangetheory.com/en-do</a></td>
+            <td>en-DO</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/workout" target="_blank">https://www.sit.orangetheory.com/en-do/workout</a></td>
+            <td>en-DO</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Dominican Republic</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/franchising" target="_blank">https://www.sit.orangetheory.com/en-do/franchising</a></td>
+            <td>en-DO</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Dominican Republic</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Dominican Republic, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Dominican Republic, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/faq" target="_blank">https://www.sit.orangetheory.com/en-do/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Dominican Republic</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Dominican Republic? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/memberships" target="_blank">https://www.sit.orangetheory.com/en-do/memberships</a></td>
+            <td>en-DO</td>
+            <td >Gym Membership | Orangetheory Fitness Dominican Republic</td>
+            <td >Gym Membership | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Dominican Republic, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Dominican Republic, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-do/promotion-terms</a></td>
+            <td>en-DO</td>
+            <td >Promotion Terms | Orangetheory Fitness Dominican Republic</td>
+            <td >Promotion Terms | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/real-estate" target="_blank">https://www.sit.orangetheory.com/en-do/real-estate</a></td>
+            <td>en-DO</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/studio-location" target="_blank">https://www.sit.orangetheory.com/en-do/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/articles" target="_blank">https://www.sit.orangetheory.com/en-do/articles</a></td>
+            <td>en-DO</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Dominican Republic</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Dominican Republic by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Dominican Republic by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/careers" target="_blank">https://www.sit.orangetheory.com/en-do/careers</a></td>
+            <td>en-DO</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-do/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-do/press" target="_blank">https://www.sit.orangetheory.com/en-do/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-do</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/locations" target="_blank">https://www.sit.orangetheory.com/es-do/locations</a></td>
+            <td>es-DO</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness República Dominicana</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en República Dominicana y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en República Dominicana y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un Estudio de Orangetheory Fitness Cerca de Ti.</td>
+            <td >• Encuentra un Estudio de Orangetheory Fitness Cerca de Ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do" target="_blank">https://www.sit.orangetheory.com/es-do</a></td>
+            <td>es-DO</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/workout" target="_blank">https://www.sit.orangetheory.com/es-do/workout</a></td>
+            <td>es-DO</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness República Dominicana</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/faq" target="_blank">https://www.sit.orangetheory.com/es-do/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness República Dominicana</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/memberships" target="_blank">https://www.sit.orangetheory.com/es-do/memberships</a></td>
+            <td>es-DO</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness República Dominicana</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Dominican Republic, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Dominican Republic, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/franchising" target="_blank">https://www.sit.orangetheory.com/es-do/franchising</a></td>
+            <td>es-DO</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness República Dominicana</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-do/promotion-terms</a></td>
+            <td>es-DO</td>
+            <td >Términos de Promoción | Orangetheory Fitness Dominican Republic</td>
+            <td >Términos de Promoción | Orangetheory Fitness Dominican Republic</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de Promoción.</td>
+            <td >• Términos de Promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/real-estate" target="_blank">https://www.sit.orangetheory.com/es-do/real-estate</a></td>
+            <td>es-DO</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea aquí la información de bienes raíces.</td>
+            <td >Vea aquí la información de bienes raíces.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/studio-location" target="_blank">https://www.sit.orangetheory.com/es-do/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/careers" target="_blank">https://www.sit.orangetheory.com/es-do/careers</a></td>
+            <td>es-DO</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-do/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que la gente no intenta el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Crees que no puedes manejar el remo? ¿Temes la cinta? Es hora de conquistar tus miedos y hacer el evento inspirado en triatlones de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las que la gente no prueba el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/articles" target="_blank">https://www.sit.orangetheory.com/es-do/articles</a></td>
+            <td>es-DO</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness República Dominicana</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness República Dominicana</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-do/press" target="_blank">https://www.sit.orangetheory.com/es-do/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-gt</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt" target="_blank">https://www.sit.orangetheory.com/en-gt</a></td>
+            <td>en-GT</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/locations" target="_blank">https://www.sit.orangetheory.com/en-gt/locations</a></td>
+            <td>en-GT</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Guatemala</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Guatemala and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Guatemala and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/workout" target="_blank">https://www.sit.orangetheory.com/en-gt/workout</a></td>
+            <td>en-GT</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Guatemala</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/memberships" target="_blank">https://www.sit.orangetheory.com/en-gt/memberships</a></td>
+            <td>en-GT</td>
+            <td >Gym Membership | Orangetheory Fitness Guatemala</td>
+            <td >Gym Membership | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Guatemala, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Guatemala, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/faq" target="_blank">https://www.sit.orangetheory.com/en-gt/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Guatemala</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Guatemala? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/franchising" target="_blank">https://www.sit.orangetheory.com/en-gt/franchising</a></td>
+            <td>en-GT</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Guatemala</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Guatemala, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Guatemala, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-gt/promotion-terms</a></td>
+            <td>en-GT</td>
+            <td >Promotion Terms | Orangetheory Fitness Guatemala</td>
+            <td >Promotion Terms | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/real-estate" target="_blank">https://www.sit.orangetheory.com/en-gt/real-estate</a></td>
+            <td>en-GT</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/articles" target="_blank">https://www.sit.orangetheory.com/en-gt/articles</a></td>
+            <td>en-GT</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Guatemala</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Guatemala by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Guatemala by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/studio-location" target="_blank">https://www.sit.orangetheory.com/en-gt/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-gt/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/careers" target="_blank">https://www.sit.orangetheory.com/en-gt/careers</a></td>
+            <td>en-GT</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gt/press" target="_blank">https://www.sit.orangetheory.com/en-gt/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-gt</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt" target="_blank">https://www.sit.orangetheory.com/es-gt</a></td>
+            <td>es-GT</td>
+            <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+            <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/locations" target="_blank">https://www.sit.orangetheory.com/es-gt/locations</a></td>
+            <td>es-GT</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness Guatemala</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Guatemala y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Guatemala y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td >• Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/workout" target="_blank">https://www.sit.orangetheory.com/es-gt/workout</a></td>
+            <td>es-GT</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Guatemala</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/memberships" target="_blank">https://www.sit.orangetheory.com/es-gt/memberships</a></td>
+            <td>es-GT</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Guatemala</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Guatemala, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Guatemala, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/faq" target="_blank">https://www.sit.orangetheory.com/es-gt/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Guatemala</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/franchising" target="_blank">https://www.sit.orangetheory.com/es-gt/franchising</a></td>
+            <td>es-GT</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Guatemala</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre Tu Propio Estudio.</td>
+            <td >• Abre Tu Propio Estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-gt/promotion-terms</a></td>
+            <td>es-GT</td>
+            <td >Términos de promoción | Orangetheory Fitness Guatemala</td>
+            <td >Términos de promoción | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de promoción.</td>
+            <td >• Términos de promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/studio-location" target="_blank">https://www.sit.orangetheory.com/es-gt/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/real-estate" target="_blank">https://www.sit.orangetheory.com/es-gt/real-estate</a></td>
+            <td>es-GT</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/articles" target="_blank">https://www.sit.orangetheory.com/es-gt/articles</a></td>
+            <td>es-GT</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Guatemala</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-gt/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 razones por las que las personas no intentan el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Piensas que no puedes manejar el remo? ¿Temes la cinta? Es hora de conquistar tus miedos y hacer el evento inspirado en triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las cuales las personas no prueban el DriTri de Orangetheory.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/careers" target="_blank">https://www.sit.orangetheory.com/es-gt/careers</a></td>
+            <td>es-GT</td>
+            <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+            <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+            <td>✅ Match</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-gt/press" target="_blank">https://www.sit.orangetheory.com/es-gt/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-mx</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx" target="_blank">https://www.sit.orangetheory.com/en-mx</a></td>
+            <td>en-MX</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/locations" target="_blank">https://www.sit.orangetheory.com/en-mx/locations</a></td>
+            <td>en-MX</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Mexico</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Mexico and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Mexico and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/memberships" target="_blank">https://www.sit.orangetheory.com/en-mx/memberships</a></td>
+            <td>en-MX</td>
+            <td >Gym Membership | Orangetheory Fitness Mexico</td>
+            <td >Gym Membership | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Mexico, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Mexico, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/workout" target="_blank">https://www.sit.orangetheory.com/en-mx/workout</a></td>
+            <td>en-MX</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Mexico</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/faq" target="_blank">https://www.sit.orangetheory.com/en-mx/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Mexico</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Mexico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/franchising" target="_blank">https://www.sit.orangetheory.com/en-mx/franchising</a></td>
+            <td>en-MX</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Mexico</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Mexico, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Mexico, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-mx/promotion-terms</a></td>
+            <td>en-MX</td>
+            <td >Promotion Terms | Orangetheory Fitness Mexico</td>
+            <td >Promotion Terms | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/studio-location" target="_blank">https://www.sit.orangetheory.com/en-mx/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/articles" target="_blank">https://www.sit.orangetheory.com/en-mx/articles</a></td>
+            <td>en-MX</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Mexico</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Mexico by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Mexico by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/real-estate" target="_blank">https://www.sit.orangetheory.com/en-mx/real-estate</a></td>
+            <td>en-MX</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-mx/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/careers" target="_blank">https://www.sit.orangetheory.com/en-mx/careers</a></td>
+            <td>en-MX</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-mx/press" target="_blank">https://www.sit.orangetheory.com/en-mx/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-mx</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx" target="_blank">https://www.sit.orangetheory.com/es-mx</a></td>
+            <td>es-MX</td>
+            <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+            <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/workout" target="_blank">https://www.sit.orangetheory.com/es-mx/workout</a></td>
+            <td>es-MX</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness México</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/locations" target="_blank">https://www.sit.orangetheory.com/es-mx/locations</a></td>
+            <td>es-MX</td>
+            <td >Encuentra Clases de Fitness Cerca de Ti | Orangetheory Fitness Mexico</td>
+            <td >Encuentra Clases de Fitness Cerca de Ti | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en México y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en México y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td >• Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/memberships" target="_blank">https://www.sit.orangetheory.com/es-mx/memberships</a></td>
+            <td>es-MX</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness México</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Mexico, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Mexico, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/faq" target="_blank">https://www.sit.orangetheory.com/es-mx/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness México</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/franchising" target="_blank">https://www.sit.orangetheory.com/es-mx/franchising</a></td>
+            <td>es-MX</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness México</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciatarios para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciatarios para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-mx/promotion-terms</a></td>
+            <td>es-MX</td>
+            <td >Términos de promoción | Orangetheory Fitness Mexico</td>
+            <td >Términos de promoción | Orangetheory Fitness Mexico</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de promoción.</td>
+            <td >• Términos de promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/studio-location" target="_blank">https://www.sit.orangetheory.com/es-mx/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/real-estate" target="_blank">https://www.sit.orangetheory.com/es-mx/real-estate</a></td>
+            <td>es-MX</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Consulta la información de bienes raíces aquí.</td>
+            <td >Consulta la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/articles" target="_blank">https://www.sit.orangetheory.com/es-mx/articles</a></td>
+            <td>es-MX</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness México</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/careers" target="_blank">https://www.sit.orangetheory.com/es-mx/careers</a></td>
+            <td>es-MX</td>
+            <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+            <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/press" target="_blank">https://www.sit.orangetheory.com/es-mx/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-mx/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-mx/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que las personas no intentan el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Piensas que no puedes manejar el remo? ¿Temes la cinta? Es hora de conquistar tus miedos y hacer el evento inspirado en triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Razones por las que la gente no prueba el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-pa</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/locations" target="_blank">https://www.sit.orangetheory.com/en-pa/locations</a></td>
+            <td>en-PA</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Panama</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Panama and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Panama and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa" target="_blank">https://www.sit.orangetheory.com/en-pa</a></td>
+            <td>en-PA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/memberships" target="_blank">https://www.sit.orangetheory.com/en-pa/memberships</a></td>
+            <td>en-PA</td>
+            <td >Gym Membership | Orangetheory Fitness Panama</td>
+            <td >Gym Membership | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Panama, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Panama, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/workout" target="_blank">https://www.sit.orangetheory.com/en-pa/workout</a></td>
+            <td>en-PA</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Panama</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/faq" target="_blank">https://www.sit.orangetheory.com/en-pa/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Panama</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Panama? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-pa/promotion-terms</a></td>
+            <td>en-PA</td>
+            <td >Promotion Terms | Orangetheory Fitness Panama</td>
+            <td >Promotion Terms | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/franchising" target="_blank">https://www.sit.orangetheory.com/en-pa/franchising</a></td>
+            <td>en-PA</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Panama</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Panama, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Panama, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/real-estate" target="_blank">https://www.sit.orangetheory.com/en-pa/real-estate</a></td>
+            <td>en-PA</td>
+            <td style="background-color:#fff3cd;">Real Estate | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View real estate information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/articles" target="_blank">https://www.sit.orangetheory.com/en-pa/articles</a></td>
+            <td>en-PA</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Panama</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Panama by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Panama by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pa/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-pa/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/press" target="_blank">https://www.sit.orangetheory.com/en-pa/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pa/careers" target="_blank">https://www.sit.orangetheory.com/en-pa/careers</a></td>
+            <td>en-PA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-pa</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa" target="_blank">https://www.sit.orangetheory.com/es-pa</a></td>
+            <td>es-PA</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/locations" target="_blank">https://www.sit.orangetheory.com/es-pa/locations</a></td>
+            <td>es-PA</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Panama</td>
+            <td >Encuentre clases de fitness cerca de usted | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Panamá y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Panamá y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td >• Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/workout" target="_blank">https://www.sit.orangetheory.com/es-pa/workout</a></td>
+            <td>es-PA</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Panamá</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTbeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTbeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/faq" target="_blank">https://www.sit.orangetheory.com/es-pa/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Panamá</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/memberships" target="_blank">https://www.sit.orangetheory.com/es-pa/memberships</a></td>
+            <td>es-PA</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Panamá</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Panama, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Panama, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/franchising" target="_blank">https://www.sit.orangetheory.com/es-pa/franchising</a></td>
+            <td>es-PA</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Panamá</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y a nuestros socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y a nuestros socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-pa/promotion-terms</a></td>
+            <td>es-PA</td>
+            <td >Términos de promoción | Orangetheory Fitness Panama</td>
+            <td >Términos de promoción | Orangetheory Fitness Panama</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de promoción.</td>
+            <td >• Términos de promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/articles" target="_blank">https://www.sit.orangetheory.com/es-pa/articles</a></td>
+            <td>es-PA</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Panamá</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pa/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicaciones globales del estudio | Fitness de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Vea nuestra lista completa de estudios de Fitness de Orangetheory alrededor del mundo. ¡Encuentra un Fitness de Orangetheory cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/real-estate" target="_blank">https://www.sit.orangetheory.com/es-pa/real-estate</a></td>
+            <td>es-PA</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea la información sobre bienes raíces aquí.</td>
+            <td >Vea la información sobre bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/press" target="_blank">https://www.sit.orangetheory.com/es-pa/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Consultas de prensa y medios | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información relacionada con la prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/careers" target="_blank">https://www.sit.orangetheory.com/es-pa/careers</a></td>
+            <td>es-PA</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pa/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-pa/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 razones por las que la gente no prueba el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Crees que no puedes manejar el remo? ¿Temes la caminadora? Es hora de conquistar tus miedos y hacer el evento inspirado en triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Razones por las que las personas no prueban el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-pe</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/locations" target="_blank">https://www.sit.orangetheory.com/en-pe/locations</a></td>
+            <td>en-PE</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Peru</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Peru and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Peru and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/memberships" target="_blank">https://www.sit.orangetheory.com/en-pe/memberships</a></td>
+            <td>en-PE</td>
+            <td >Gym Membership | Orangetheory Fitness Peru</td>
+            <td >Gym Membership | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Peru, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Peru, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/workout" target="_blank">https://www.sit.orangetheory.com/en-pe/workout</a></td>
+            <td>en-PE</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Peru</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/faq" target="_blank">https://www.sit.orangetheory.com/en-pe/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Peru</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Peru? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-pe/promotion-terms</a></td>
+            <td>en-PE</td>
+            <td >Promotion Terms | Orangetheory Fitness Peru</td>
+            <td >Promotion Terms | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/franchising" target="_blank">https://www.sit.orangetheory.com/en-pe/franchising</a></td>
+            <td>en-PE</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Peru</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Peru, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Peru, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/articles" target="_blank">https://www.sit.orangetheory.com/en-pe/articles</a></td>
+            <td>en-PE</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Peru</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Peru by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Peru by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pe/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/real-estate" target="_blank">https://www.sit.orangetheory.com/en-pe/real-estate</a></td>
+            <td>en-PE</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-pe/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/careers" target="_blank">https://www.sit.orangetheory.com/en-pe/careers</a></td>
+            <td>en-PE</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Peru</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Peru — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Peru — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe/press" target="_blank">https://www.sit.orangetheory.com/en-pe/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pe" target="_blank">https://www.sit.orangetheory.com/en-pe</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">Group Fitness Class & Interval Training | Orangetheory Fitness Peru</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">Join the Best Group Fitness Classes with Orangetheory Peru — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;"><i>No H1 found</i></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">0</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-pe</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe" target="_blank">https://www.sit.orangetheory.com/es-pe</a></td>
+            <td>es-PE</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/locations" target="_blank">https://www.sit.orangetheory.com/es-pe/locations</a></td>
+            <td>es-PE</td>
+            <td >Encuentra Clases de Fitness Cerca de Ti | Orangetheory Fitness Peru</td>
+            <td >Encuentra Clases de Fitness Cerca de Ti | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Perú y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Perú y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td >• Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/workout" target="_blank">https://www.sit.orangetheory.com/es-pe/workout</a></td>
+            <td>es-PE</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardiaco | Orangetheory Fitness Peru</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardiaco | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/memberships" target="_blank">https://www.sit.orangetheory.com/es-pe/memberships</a></td>
+            <td>es-PE</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Perú</td>
+            <td >Membresía Gimnasio | Orangetheory Fitness Perú</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Peru, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Peru, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/faq" target="_blank">https://www.sit.orangetheory.com/es-pe/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Perú</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/franchising" target="_blank">https://www.sit.orangetheory.com/es-pe/franchising</a></td>
+            <td>es-PE</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Peru</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Peru</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-pe/promotion-terms</a></td>
+            <td>es-PE</td>
+            <td >Términos de la Promoción | Orangetheory Fitness Perú</td>
+            <td >Términos de la Promoción | Orangetheory Fitness Perú</td>
+            <td>✅ Match</td>
+            <td >Obtenga más información sobre las condiciones de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Obtenga más información sobre las condiciones de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de promoción.</td>
+            <td >• Términos de promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/articles" target="_blank">https://www.sit.orangetheory.com/es-pe/articles</a></td>
+            <td>es-PE</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Perú</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Perú</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/real-estate" target="_blank">https://www.sit.orangetheory.com/es-pe/real-estate</a></td>
+            <td>es-PE</td>
+            <td >Bienes raíces | Orangetheory Fitness</td>
+            <td >Bienes raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td >Vea la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes raíces.</td>
+            <td >• Bienes raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pe/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-pe/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que la gente no prueba el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Piensas que no puedes manejar el remo? ¿Temes la caminadora? Es hora de conquistar tus miedos y hacer el evento inspirado en el triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Razones por las que las personas no intentan el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/press" target="_blank">https://www.sit.orangetheory.com/es-pe/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pe/careers" target="_blank">https://www.sit.orangetheory.com/es-pe/careers</a></td>
+            <td>es-PE</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-pr</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr" target="_blank">https://www.sit.orangetheory.com/en-pr</a></td>
+            <td>en-PR</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/memberships" target="_blank">https://www.sit.orangetheory.com/en-pr/memberships</a></td>
+            <td>en-PR</td>
+            <td >Gym Membership | Orangetheory Fitness Puerto Rico</td>
+            <td >Gym Membership | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Puerto Rico, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Puerto Rico, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/locations" target="_blank">https://www.sit.orangetheory.com/en-pr/locations</a></td>
+            <td>en-PR</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Puerto Rico</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Puerto Rico and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Puerto Rico and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/faq" target="_blank">https://www.sit.orangetheory.com/en-pr/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Puerto Rico</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Puerto Rico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/workout" target="_blank">https://www.sit.orangetheory.com/en-pr/workout</a></td>
+            <td>en-PR</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Puerto Rico</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/franchising" target="_blank">https://www.sit.orangetheory.com/en-pr/franchising</a></td>
+            <td>en-PR</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Puerto Rico</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Puerto Rico, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Puerto Rico, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-pr/promotion-terms</a></td>
+            <td>en-PR</td>
+            <td >Promotion Terms | Orangetheory Fitness Puerto Rico</td>
+            <td >Promotion Terms | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pr/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/real-estate" target="_blank">https://www.sit.orangetheory.com/en-pr/real-estate</a></td>
+            <td>en-PR</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/articles" target="_blank">https://www.sit.orangetheory.com/en-pr/articles</a></td>
+            <td>en-PR</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Puerto Rico</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Puerto Rico by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Puerto Rico by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-pr/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/careers" target="_blank">https://www.sit.orangetheory.com/en-pr/careers</a></td>
+            <td>en-PR</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-pr/press" target="_blank">https://www.sit.orangetheory.com/en-pr/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-pr</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr" target="_blank">https://www.sit.orangetheory.com/es-pr</a></td>
+            <td>es-PR</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/workout" target="_blank">https://www.sit.orangetheory.com/es-pr/workout</a></td>
+            <td>es-PR</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Puerto Rico</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td >• Un programa integral para fuerza, resistencia y transformación total del cuerpo.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/locations" target="_blank">https://www.sit.orangetheory.com/es-pr/locations</a></td>
+            <td>es-PR</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness Puerto Rico</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Puerto Rico y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en Puerto Rico y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td >• Encuentra un estudio de Orangetheory Fitness cerca de ti.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/memberships" target="_blank">https://www.sit.orangetheory.com/es-pr/memberships</a></td>
+            <td>es-PR</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness Puerto Rico</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Puerto Rico, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Puerto Rico, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti! Garantía de 30 días sin riesgo.</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/faq" target="_blank">https://www.sit.orangetheory.com/es-pr/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness Puerto Rico</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/franchising" target="_blank">https://www.sit.orangetheory.com/es-pr/franchising</a></td>
+            <td>es-PR</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Puerto Rico</td>
+            <td >Oportunidades de Franquicia | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, preparamos a nuestros miembros y socios franquiciados para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-pr/promotion-terms</a></td>
+            <td>es-PR</td>
+            <td >Términos de la promoción | Orangetheory Fitness Puerto Rico</td>
+            <td >Términos de la promoción | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Obtenga más información sobre las condiciones de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Obtenga más información sobre las condiciones de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de Promoción.</td>
+            <td >• Términos de Promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/articles" target="_blank">https://www.sit.orangetheory.com/es-pr/articles</a></td>
+            <td>es-PR</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Puerto Rico</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/real-estate" target="_blank">https://www.sit.orangetheory.com/es-pr/real-estate</a></td>
+            <td>es-PR</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Ve la información de bienes raíces aquí.</td>
+            <td >Ve la información de bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/press" target="_blank">https://www.sit.orangetheory.com/es-pr/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Prensa | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información de prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Media Inquiries</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-pr/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Razones por las que las personas no prueban el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Piensas que no puedes manejar el remo? ¿Temes la caminadora? Es hora de conquistar tus miedos y participar en el evento inspirado por triatlón de Orangetheory, el DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las que la gente no prueba el Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pr/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-pr/careers" target="_blank">https://www.sit.orangetheory.com/es-pr/careers</a></td>
+            <td>es-PR</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+            <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla masa muscular.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-us</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/workout" target="_blank">https://www.sit.orangetheory.com/en-us/workout</a></td>
+            <td>en-US</td>
+            <td >Personalized Heart Rate Zone Training | A Workout Backed by Science</td>
+            <td >Personalized Heart Rate Zone Training | A Workout Backed by Science</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us" target="_blank">https://www.sit.orangetheory.com/en-us</a></td>
+            <td>en-US</td>
+            <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+            <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Burn Fat.Build Muscle.</td>
+            <td >• Burn Fat.Build Muscle.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/locations" target="_blank">https://www.sit.orangetheory.com/en-us/locations</a></td>
+            <td>en-US</td>
+            <td >Find Orangetheory Fitness Classes Near You | Gym Finder</td>
+            <td >Find Orangetheory Fitness Classes Near You | Gym Finder</td>
+            <td>✅ Match</td>
+            <td >Find Orangetheory Fitness Classes Near You and Experience Our Scientifically-Backed Workouts Designed to Help You Reach Your Fitness Goals. Try For Free Today!</td>
+            <td >Find Orangetheory Fitness Classes Near You and Experience Our Scientifically-Backed Workouts Designed to Help You Reach Your Fitness Goals. Try For Free Today!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/faq" target="_blank">https://www.sit.orangetheory.com/en-us/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness US</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/memberships" target="_blank">https://www.sit.orangetheory.com/en-us/memberships</a></td>
+            <td>en-US</td>
+            <td >Join Orangetheory Fitness & Explore Our Gym Membership Options</td>
+            <td >Join Orangetheory Fitness & Explore Our Gym Membership Options</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You! 30-Day Risk-Free Guarantee.</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You! 30-Day Risk-Free Guarantee.</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/franchising" target="_blank">https://www.sit.orangetheory.com/en-us/franchising</a></td>
+            <td>en-US</td>
+            <td >Franchising Opportunities | Orangetheory Fitness US</td>
+            <td >Franchising Opportunities | Orangetheory Fitness US</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-us/promotion-terms</a></td>
+            <td>en-US</td>
+            <td >Promotion Terms | Orangetheory Fitness US</td>
+            <td >Promotion Terms | Orangetheory Fitness US</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/articles" target="_blank">https://www.sit.orangetheory.com/en-us/articles</a></td>
+            <td>en-US</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness US</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness US</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/real-estate" target="_blank">https://www.sit.orangetheory.com/en-us/real-estate</a></td>
+            <td>en-US</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-us/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/careers" target="_blank">https://www.sit.orangetheory.com/en-us/careers</a></td>
+            <td>en-US</td>
+            <td >Work For Orangetheory | Orangetheory Fitness US</td>
+            <td >Work For Orangetheory | Orangetheory Fitness US</td>
+            <td>✅ Match</td>
+            <td >Do you have a passion for fitness and motivating all types of people? We want to hear from you! Find out more about joining the Orangetheory team.</td>
+            <td >Do you have a passion for fitness and motivating all types of people? We want to hear from you! Find out more about joining the Orangetheory team.</td>
+            <td>✅ Match</td>
+            <td>We Work Hard so Others Can Live More.</td>
+            <td >• We Work Hard so Others Can Live More.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/studio-location" target="_blank">https://www.sit.orangetheory.com/en-us/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-us/press" target="_blank">https://www.sit.orangetheory.com/en-us/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press and Media Inquiries | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-au</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/locations" target="_blank">https://www.sit.orangetheory.com/en-au/locations</a></td>
+            <td>en-AU</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Australia</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Australia and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Australia and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/workout" target="_blank">https://www.sit.orangetheory.com/en-au/workout</a></td>
+            <td>en-AU</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Australia</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au" target="_blank">https://www.sit.orangetheory.com/en-au</a></td>
+            <td>en-AU</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+            <td>✅ Match</td>
+            <td>Burn Fat.Build Muscle.</td>
+            <td style="background-color:#fff3cd;">• Build Muscle.Burn Calories.Get Results.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-au/promotion-terms</a></td>
+            <td>en-AU</td>
+            <td >Promotion Terms | Orangetheory Fitness Australia</td>
+            <td >Promotion Terms | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/franchising" target="_blank">https://www.sit.orangetheory.com/en-au/franchising</a></td>
+            <td>en-AU</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Australia</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Australia, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Australia, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/memberships" target="_blank">https://www.sit.orangetheory.com/en-au/memberships</a></td>
+            <td>en-AU</td>
+            <td >Gym Membership | Orangetheory Fitness Australia</td>
+            <td >Gym Membership | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Australia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Australia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/faq" target="_blank">https://www.sit.orangetheory.com/en-au/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Australia</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Australia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/studio-location" target="_blank">https://www.sit.orangetheory.com/en-au/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/real-estate" target="_blank">https://www.sit.orangetheory.com/en-au/real-estate</a></td>
+            <td>en-AU</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/articles" target="_blank">https://www.sit.orangetheory.com/en-au/articles</a></td>
+            <td>en-AU</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Australia</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Australia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Australia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/careers" target="_blank">https://www.sit.orangetheory.com/en-au/careers</a></td>
+            <td>en-AU</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/press" target="_blank">https://www.sit.orangetheory.com/en-au/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-au/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-au/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-in</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/workout" target="_blank">https://www.sit.orangetheory.com/en-in/workout</a></td>
+            <td>en-IN</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness India</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/locations" target="_blank">https://www.sit.orangetheory.com/en-in/locations</a></td>
+            <td>en-IN</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness India</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in India and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in India and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in" target="_blank">https://www.sit.orangetheory.com/en-in</a></td>
+            <td>en-IN</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/memberships" target="_blank">https://www.sit.orangetheory.com/en-in/memberships</a></td>
+            <td>en-IN</td>
+            <td >Gym Membership | Orangetheory Fitness India</td>
+            <td >Gym Membership | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Choose Premier Gym Membership Package at Orangetheory Fitness India. See Which Is Right for You!</td>
+            <td >Choose Premier Gym Membership Package at Orangetheory Fitness India. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/faq" target="_blank">https://www.sit.orangetheory.com/en-in/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness India</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness India? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/franchising" target="_blank">https://www.sit.orangetheory.com/en-in/franchising</a></td>
+            <td>en-IN</td>
+            <td >Franchising Opportunities | Orangetheory Fitness India</td>
+            <td >Franchising Opportunities | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness India, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness India, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-in/promotion-terms</a></td>
+            <td>en-IN</td>
+            <td >Promotion Terms | Orangetheory Fitness India</td>
+            <td >Promotion Terms | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/real-estate" target="_blank">https://www.sit.orangetheory.com/en-in/real-estate</a></td>
+            <td>en-IN</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-in/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/press" target="_blank">https://www.sit.orangetheory.com/en-in/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/studio-location" target="_blank">https://www.sit.orangetheory.com/en-in/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/articles" target="_blank">https://www.sit.orangetheory.com/en-in/articles</a></td>
+            <td>en-IN</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness India</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness India by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness India by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-in/careers" target="_blank">https://www.sit.orangetheory.com/en-in/careers</a></td>
+            <td>en-IN</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: ja-jp</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp" target="_blank">https://www.sit.orangetheory.com/ja-jp</a></td>
+            <td>ja-JP</td>
+            <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+            <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+            <td>✅ Match</td>
+            <td >Orangetheoryでベストグループのフィットネスクラスに参加しましょう — 支持する環境でフルボディのワークアウトを与えるように設計されたワークアウトクラス。 今日は無料でお試しください！</td>
+            <td >Orangetheoryでベストグループのフィットネスクラスに参加しましょう — 支持する環境でフルボディのワークアウトを与えるように設計されたワークアウトクラス。 今日は無料でお試しください！</td>
+            <td>✅ Match</td>
+            <td>筋肉をつける。カロリーを燃焼する。結果を得る。</td>
+            <td >• 筋肉をつける。カロリーを燃焼する。結果を得る。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/locations" target="_blank">https://www.sit.orangetheory.com/ja-jp/locations</a></td>
+            <td>ja-JP</td>
+            <td >お近くのフィットネススタジオを探す｜オレンジセオリーフィットネス・ジャパン</td>
+            <td >お近くのフィットネススタジオを探す｜オレンジセオリーフィットネス・ジャパン</td>
+            <td>✅ Match</td>
+            <td >日本でお近くのオレンジセオリーのスタジオを見つけ、無料で試せる高強度のワークアウトを体験してください！</td>
+            <td >日本でお近くのオレンジセオリーのスタジオを見つけ、無料で試せる高強度のワークアウトを体験してください！</td>
+            <td>✅ Match</td>
+            <td>お近くのオレンジセオリーのスタジオを見つけよう！</td>
+            <td >• お近くのオレンジセオリーのスタジオを見つけよう！</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/memberships" target="_blank">https://www.sit.orangetheory.com/ja-jp/memberships</a></td>
+            <td>ja-JP</td>
+            <td >会員種類｜オレンジセオリーフィットネス・ジャパン</td>
+            <td >会員種類｜オレンジセオリーフィットネス・ジャパン</td>
+            <td>✅ Match</td>
+            <td >Orangetheoryフィットネスで3つの異なるジムメンバーシップパッケージから選択するか、クラスパックを購入する - 10、20、または30。 あなたにとってどちらが正しいかを見てください!</td>
+            <td >Orangetheoryフィットネスで3つの異なるジムメンバーシップパッケージから選択するか、クラスパックを購入する - 10、20、または30。 あなたにとってどちらが正しいかを見てください!</td>
+            <td>✅ Match</td>
+            <td>誰でも通いやすい柔軟な会員プラン。</td>
+            <td >• 誰でも通いやすい柔軟な会員プラン。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/workout" target="_blank">https://www.sit.orangetheory.com/ja-jp/workout</a></td>
+            <td>ja-JP</td>
+            <td >心拍数ベースのワークアウト｜オレンジセオリーフィットネス・ジャパン</td>
+            <td >心拍数ベースのワークアウト｜オレンジセオリーフィットネス・ジャパン</td>
+            <td>✅ Match</td>
+            <td >HIITとは異なり、Orangetheory Fitnessのクラスでは、OTBeat®心拍数モニターのデータに基づいて努力のレベルを調整します。 今日は無料でお試しください！</td>
+            <td >HIITとは異なり、Orangetheory Fitnessのクラスでは、OTBeat®心拍数モニターのデータに基づいて努力のレベルを調整します。 今日は無料でお試しください！</td>
+            <td>✅ Match</td>
+            <td>有酸素運動×筋トレで全身をバランス良く鍛える。</td>
+            <td >• 有酸素運動×筋トレで全身をバランス良く鍛える。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/franchising" target="_blank">https://www.sit.orangetheory.com/ja-jp/franchising</a></td>
+            <td>ja-JP</td>
+            <td >フランチャイズ募集｜オレンジセオリー フィットネスジャパン</td>
+            <td >フランチャイズ募集｜オレンジセオリー フィットネスジャパン</td>
+            <td>✅ Match</td>
+            <td >Orangetheory Fitnessでは、会員とフランチャイズパートナーの成功をサポートします。 より健康的な世界を創造するための私たちの使命の詳細をご覧ください。</td>
+            <td >Orangetheory Fitnessでは、会員とフランチャイズパートナーの成功をサポートします。 より健康的な世界を創造するための私たちの使命の詳細をご覧ください。</td>
+            <td>✅ Match</td>
+            <td>自分のスタジオを開きます。</td>
+            <td >• 自分のスタジオを開きます。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/faq" target="_blank">https://www.sit.orangetheory.com/ja-jp/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">よくある質問｜オレンジセオリー フィットネスジャパン</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">オレンジセオリー フィットネスジャパンについてご質問がありますか？ フィットネスジャパンのよくあるご質問をご覧ください！</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• よくある質問</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/promotion-terms" target="_blank">https://www.sit.orangetheory.com/ja-jp/promotion-terms</a></td>
+            <td>ja-JP</td>
+            <td >プロモーションの条件 | Orangetheory Fitness Japan</td>
+            <td >プロモーションの条件 | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Orangetheorion Fitnessで現在のプロモーションの条件について詳しくはこちら。</td>
+            <td >Orangetheorion Fitnessで現在のプロモーションの条件について詳しくはこちら。</td>
+            <td>✅ Match</td>
+            <td>プロモーションの条件。</td>
+            <td >• プロモーションの条件。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/real-estate" target="_blank">https://www.sit.orangetheory.com/ja-jp/real-estate</a></td>
+            <td>ja-JP</td>
+            <td >不動産 | Orangetheory Fitness</td>
+            <td >不動産 | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >ここで不動産情報をご覧ください。</td>
+            <td >ここで不動産情報をご覧ください。</td>
+            <td>✅ Match</td>
+            <td>不動産。</td>
+            <td >• 不動産。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/studio-location" target="_blank">https://www.sit.orangetheory.com/ja-jp/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">世界各地のスタジオ｜オレンジセオリーフィットネス</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">世界中のオレンジセオリーフィットネスのスタジオ一覧です。お近くのスタジオをお探しください！</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• グローバルスタジオ</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/articles" target="_blank">https://www.sit.orangetheory.com/ja-jp/articles</a></td>
+            <td>ja-JP</td>
+            <td >フィットネスとウェルネスの記事｜オレンジセオリー フィットネスジャパン</td>
+            <td >フィットネスとウェルネスの記事｜オレンジセオリー フィットネスジャパン</td>
+            <td>✅ Match</td>
+            <td >あなたのフィットネスとウェルネスの旅であなたを助けるように設計された彼らの最高の記事を読んでOrangetheoryフィットネスのフィットネスの専門家と接続します。</td>
+            <td >あなたのフィットネスとウェルネスの旅であなたを助けるように設計された彼らの最高の記事を読んでOrangetheoryフィットネスのフィットネスの専門家と接続します。</td>
+            <td>✅ Match</td>
+            <td>すべての記事</td>
+            <td >• すべての記事</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/ja-jp/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">人々がオレンジセオリーのDriTriを試さない10の理由</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">ローワーを扱えないと思いますか？ トレッドを恐れていますか？ 恐怖を克服して、オレンジセオリーのトライアスロンにインスパイアされたイベント、DriTriを行う時が来ました。</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10の理由 人々がOrangetheory DriTriを試さない.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/careers" target="_blank">https://www.sit.orangetheory.com/ja-jp/careers</a></td>
+            <td>ja-JP</td>
+            <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+            <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+            <td>✅ Match</td>
+            <td >Orangetheoryでベストグループのフィットネスクラスに参加しましょう — 支持する環境でフルボディのワークアウトを与えるように設計されたワークアウトクラス。 今日は無料でお試しください！</td>
+            <td >Orangetheoryでベストグループのフィットネスクラスに参加しましょう — 支持する環境でフルボディのワークアウトを与えるように設計されたワークアウトクラス。 今日は無料でお試しください！</td>
+            <td>✅ Match</td>
+            <td>筋肉をつける。カロリーを燃焼する。結果を得る。</td>
+            <td >• 筋肉をつける。カロリーを燃焼する。結果を得る。</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/ja-jp/press" target="_blank">https://www.sit.orangetheory.com/ja-jp/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">プレス｜オレンジセオリー フィットネス</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">プレス関連情報はこちら</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• プレスにおけるオレンジ理論<br>• メディアに関するお問い合わせ</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-jp</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp" target="_blank">https://www.sit.orangetheory.com/en-jp</a></td>
+            <td>en-JP</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/memberships" target="_blank">https://www.sit.orangetheory.com/en-jp/memberships</a></td>
+            <td>en-JP</td>
+            <td >Gym Membership | Orangetheory Fitness Japan</td>
+            <td >Gym Membership | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Japan, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Japan, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/faq" target="_blank">https://www.sit.orangetheory.com/en-jp/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Japan</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Japan? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/workout" target="_blank">https://www.sit.orangetheory.com/en-jp/workout</a></td>
+            <td>en-JP</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Japan</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/locations" target="_blank">https://www.sit.orangetheory.com/en-jp/locations</a></td>
+            <td>en-JP</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Japan</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Japan and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Japan and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/franchising" target="_blank">https://www.sit.orangetheory.com/en-jp/franchising</a></td>
+            <td>en-JP</td>
+            <td >Franchising Opportunities | Orangetheory Fitness</td>
+            <td >Franchising Opportunities | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-jp/promotion-terms</a></td>
+            <td>en-JP</td>
+            <td >Promotion Terms | Orangetheory Fitness Japan</td>
+            <td >Promotion Terms | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/studio-location" target="_blank">https://www.sit.orangetheory.com/en-jp/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-jp/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/press" target="_blank">https://www.sit.orangetheory.com/en-jp/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/articles" target="_blank">https://www.sit.orangetheory.com/en-jp/articles</a></td>
+            <td>en-JP</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/careers" target="_blank">https://www.sit.orangetheory.com/en-jp/careers</a></td>
+            <td>en-JP</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-jp/real-estate" target="_blank">https://www.sit.orangetheory.com/en-jp/real-estate</a></td>
+            <td>en-JP</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: da-dk</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/locations" target="_blank">https://www.sit.orangetheory.com/da-dk/locations</a></td>
+            <td>da-DK</td>
+            <td >Find fitnesshold i nærheden af dig | Orangetheory Fitness Danmark</td>
+            <td >Find fitnesshold i nærheden af dig | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Find et Orangetheory Fitness-studie nær dig i Danmark, og find ud af, hvordan du kan prøve vores højintensive træning gratis!</td>
+            <td >Find et Orangetheory Fitness-studie nær dig i Danmark, og find ud af, hvordan du kan prøve vores højintensive træning gratis!</td>
+            <td>✅ Match</td>
+            <td>Find et Orangetheory Fitness-center nær dig.</td>
+            <td >• Find et Orangetheory Fitness-center nær dig.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk" target="_blank">https://www.sit.orangetheory.com/da-dk</a></td>
+            <td>da-DK</td>
+            <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+            <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+            <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+            <td>✅ Match</td>
+            <td>Byg Muskler.Forbrænd kalorier.Få Resultater.</td>
+            <td >• Byg Muskler.Forbrænd kalorier.Få Resultater.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/workout" target="_blank">https://www.sit.orangetheory.com/da-dk/workout</a></td>
+            <td>da-DK</td>
+            <td >Hjertefrekvensbaseret HIIT-træning | Orangetheory Fitness Danmark</td>
+            <td >Hjertefrekvensbaseret HIIT-træning | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >I modsætning til HIIT på en Orangetheory Fitness klasse justerer du dit indsatsniveau baseret på data fra vores OTbeat pulsmåler. Prøv os gratis i dag! | Orangetheory Fitness Danmark</td>
+            <td >I modsætning til HIIT på en Orangetheory Fitness klasse justerer du dit indsatsniveau baseret på data fra vores OTbeat pulsmåler. Prøv os gratis i dag! | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td>Oplev et totalt krop, styrke og cardio program.</td>
+            <td >• Oplev et totalt krop, styrke og cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/memberships" target="_blank">https://www.sit.orangetheory.com/da-dk/memberships</a></td>
+            <td>da-DK</td>
+            <td >Medlemskab af fitnesscenter | Orangetheory Fitness Danmark</td>
+            <td >Medlemskab af fitnesscenter | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Vælg mellem 3 forskellige Gym Medlemskab Pakker på Orangetheory Fitness Denmark, eller køb Klasse Packs - 10, 20 eller 30. Se hvad der er rigtigt for dig! 30-dages Risikofri Garanti.</td>
+            <td >Vælg mellem 3 forskellige Gym Medlemskab Pakker på Orangetheory Fitness Denmark, eller køb Klasse Packs - 10, 20 eller 30. Se hvad der er rigtigt for dig! 30-dages Risikofri Garanti.</td>
+            <td>✅ Match</td>
+            <td>Fleksible medlemskaber for alle.</td>
+            <td >• Fleksible medlemskaber for alle.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/faq" target="_blank">https://www.sit.orangetheory.com/da-dk/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ofte Stillede Spørgsmål | Orangetheory Fitness Danmark</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Har du spørgsmål om Orangetheory Fitness? Tjek vores ofte stillede spørgsmål sektion for at finde mere information om vores træning og meget mere!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Ofte stillede spørgsmål.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/franchising" target="_blank">https://www.sit.orangetheory.com/da-dk/franchising</a></td>
+            <td>da-DK</td>
+            <td >Muligheder for franchising | Orangetheory Fitness Danmark</td>
+            <td >Muligheder for franchising | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Hos Orangetheory Fitness, sætter vi både vores medlemmer og franchisepartnere op for succes. Få mere at vide om vores mission om at skabe en sundere verden.</td>
+            <td >Hos Orangetheory Fitness, sætter vi både vores medlemmer og franchisepartnere op for succes. Få mere at vide om vores mission om at skabe en sundere verden.</td>
+            <td>✅ Match</td>
+            <td>Åbn Din Egen Studio.</td>
+            <td >• Åbn Din Egen Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/promotion-terms" target="_blank">https://www.sit.orangetheory.com/da-dk/promotion-terms</a></td>
+            <td>da-DK</td>
+            <td >Kampagnevilkår | Orangetheory Fitness Danmark</td>
+            <td >Kampagnevilkår | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Læs mere om vilkårene for vores aktuelle kampagner hos Orangetheory Fitness.</td>
+            <td >Læs mere om vilkårene for vores aktuelle kampagner hos Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Tillæg til Orangetheory Fitness medlemsbetingelser til brug for kampagnetilbud.</td>
+            <td >• Tillæg til Orangetheory Fitness medlemsbetingelser til brug for kampagnetilbud.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/articles" target="_blank">https://www.sit.orangetheory.com/da-dk/articles</a></td>
+            <td>da-DK</td>
+            <td >Fitness og wellness Artikler desværre, Orangetheory Fitness Danmark</td>
+            <td >Fitness og wellness Artikler desværre, Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Forbind dig med fitnesseksperter på Orangetheory Fitness ved at læse deres bedste artikler designet til at hjælpe dig i din fitness og wellness rejse.</td>
+            <td >Forbind dig med fitnesseksperter på Orangetheory Fitness ved at læse deres bedste artikler designet til at hjælpe dig i din fitness og wellness rejse.</td>
+            <td>✅ Match</td>
+            <td>Alle Artikler</td>
+            <td >• Alle Artikler</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/real-estate" target="_blank">https://www.sit.orangetheory.com/da-dk/real-estate</a></td>
+            <td>da-DK</td>
+            <td >Ejendom | Orangetheory Fitness</td>
+            <td >Ejendom | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Se ejendomsoplysninger her.</td>
+            <td >Se ejendomsoplysninger her.</td>
+            <td>✅ Match</td>
+            <td>Ejendom.</td>
+            <td >• Ejendom.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/studio-location" target="_blank">https://www.sit.orangetheory.com/da-dk/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Globale studielokationer | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Se vores komplette liste over Orangetheory Fitness-studier i hele verden. Find et Orangetheory Fitness-studie i nærheden af dig!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Globale Studios</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/da-dk/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 grunde til at folk ikke prøver Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Tror du, du ikke kan klare rækken? Gruer du dig til tread? Det er tid til at overvinde dine frygt og deltage i Orangetheorys triathlon-inspirerede begivenhed, DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 grunde til, at folk ikke prøver Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/careers" target="_blank">https://www.sit.orangetheory.com/da-dk/careers</a></td>
+            <td>da-DK</td>
+            <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+            <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+            <td>✅ Match</td>
+            <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+            <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+            <td>✅ Match</td>
+            <td>Byg Muskler.Forbrænd kalorier.Få Resultater.</td>
+            <td >• Byg Muskler.Forbrænd kalorier.Få Resultater.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/da-dk/press" target="_blank">https://www.sit.orangetheory.com/da-dk/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Presse | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Se presserelateret information her.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory i pressen<br>• Medie Forespørgsler</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-dk</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk" target="_blank">https://www.sit.orangetheory.com/en-dk</a></td>
+            <td>en-DK</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/workout" target="_blank">https://www.sit.orangetheory.com/en-dk/workout</a></td>
+            <td>en-DK</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Denmark</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/locations" target="_blank">https://www.sit.orangetheory.com/en-dk/locations</a></td>
+            <td>en-DK</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Denmark</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Denmark and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Denmark and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/memberships" target="_blank">https://www.sit.orangetheory.com/en-dk/memberships</a></td>
+            <td>en-DK</td>
+            <td >Gym Membership | Orangetheory Fitness Denmark</td>
+            <td >Gym Membership | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Denmark, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Denmark, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/faq" target="_blank">https://www.sit.orangetheory.com/en-dk/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Denmark</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Denmark? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/franchising" target="_blank">https://www.sit.orangetheory.com/en-dk/franchising</a></td>
+            <td>en-DK</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Denmark</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Denmark, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Denmark, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-dk/promotion-terms</a></td>
+            <td>en-DK</td>
+            <td >Promotion Terms | Orangetheory Fitness Denmark</td>
+            <td >Promotion Terms | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Supplement to Orangetheory Fitness Membership Terms for Campaign Offers.</td>
+            <td >• Supplement to Orangetheory Fitness Membership Terms for Campaign Offers.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/studio-location" target="_blank">https://www.sit.orangetheory.com/en-dk/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/real-estate" target="_blank">https://www.sit.orangetheory.com/en-dk/real-estate</a></td>
+            <td>en-DK</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/articles" target="_blank">https://www.sit.orangetheory.com/en-dk/articles</a></td>
+            <td>en-DK</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Denmark</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Denmark by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Denmark by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/careers" target="_blank">https://www.sit.orangetheory.com/en-dk/careers</a></td>
+            <td>en-DK</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-dk/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-dk/press" target="_blank">https://www.sit.orangetheory.com/en-dk/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: de-de</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de" target="_blank">https://www.sit.orangetheory.com/de-de</a></td>
+            <td>de-DE</td>
+            <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+            <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+            <td>✅ Match</td>
+            <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+            <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+            <td>✅ Match</td>
+            <td>Muskeln aufbauen.Kalorien verbrennen.Ergebnisse erzielen.</td>
+            <td >• Muskeln aufbauen.Kalorien verbrennen.Ergebnisse erzielen.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/workout" target="_blank">https://www.sit.orangetheory.com/de-de/workout</a></td>
+            <td>de-DE</td>
+            <td >Herzfrequenzbasiertes HIIT-Workout | Orangetheory Fitness Deutschland</td>
+            <td >Herzfrequenzbasiertes HIIT-Workout | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Im Gegensatz zu HIIT stellst du in einer Orangetheory Fitness Klasse dein Anstrengungslevel basierend auf den Daten unseres OTBeat Herzfrequenzmonitors ein. Probiere uns heute kostenlos aus!</td>
+            <td >Im Gegensatz zu HIIT stellst du in einer Orangetheory Fitness Klasse dein Anstrengungslevel basierend auf den Daten unseres OTBeat Herzfrequenzmonitors ein. Probiere uns heute kostenlos aus!</td>
+            <td>✅ Match</td>
+            <td>Erlebe ein Ganzkörperprogramm mit Kraft- und Ausdauertraining.</td>
+            <td >• Erlebe ein Ganzkörperprogramm mit Kraft- und Ausdauertraining.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/locations" target="_blank">https://www.sit.orangetheory.com/de-de/locations</a></td>
+            <td>de-DE</td>
+            <td >Fitnesskurse in Ihrer Nähe finden | Orangetheory Fitness Deutschland</td>
+            <td >Fitnesskurse in Ihrer Nähe finden | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Finde ein Orangetheory Fitness Studio in deiner Nähe in Deutschland und finde heraus, wie du unser hochintensives Workout kostenlos ausprobieren kannst!</td>
+            <td >Finde ein Orangetheory Fitness Studio in deiner Nähe in Deutschland und finde heraus, wie du unser hochintensives Workout kostenlos ausprobieren kannst!</td>
+            <td>✅ Match</td>
+            <td>Finden Sie ein Orangetheory Fitness Studio in Ihrer Nähe.</td>
+            <td >• Finden Sie ein Orangetheory Fitness Studio in Ihrer Nähe.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/memberships" target="_blank">https://www.sit.orangetheory.com/de-de/memberships</a></td>
+            <td>de-DE</td>
+            <td >Fitnessstudio-Mitgliedschaft | Orangetheory Fitness Deutschland</td>
+            <td >Fitnessstudio-Mitgliedschaft | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Wählen Sie unter 3 verschiedenen Gym Membership Packages in Orangetheory Fitness Deutschland, oder Kauf Class Packs - 10, 20 oder 30. Sehen Sie, welche ist für Sie richtig! 30-Tage risikolose Garantie.</td>
+            <td >Wählen Sie unter 3 verschiedenen Gym Membership Packages in Orangetheory Fitness Deutschland, oder Kauf Class Packs - 10, 20 oder 30. Sehen Sie, welche ist für Sie richtig! 30-Tage risikolose Garantie.</td>
+            <td>✅ Match</td>
+            <td>Flexible Mitgliedschaft für alle.</td>
+            <td >• Flexible Mitgliedschaft für alle.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/faq" target="_blank">https://www.sit.orangetheory.com/de-de/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Häufig gestellte Fragen | Orangetheory Fitness Deutschland</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Haben Sie Fragen zu Orangetheory Fitness? Besuchen Sie unseren Bereich für häufig gestellte Fragen, um weitere Informationen über unser Training und vieles mehr zu erhalten!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Häufig gestellte Fragen.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/franchising" target="_blank">https://www.sit.orangetheory.com/de-de/franchising</a></td>
+            <td>de-DE</td>
+            <td >Franchising-Möglichkeiten | Orangetheory Fitness Deutschland</td>
+            <td >Franchising-Möglichkeiten | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Bei Orangetheory Fitness bereiten wir sowohl unsere Mitglieder als auch unsere Franchise-Partner auf den Erfolg vor. Erfahren Sie mehr über unsere Mission, eine gesündere Welt zu schaffen.</td>
+            <td >Bei Orangetheory Fitness bereiten wir sowohl unsere Mitglieder als auch unsere Franchise-Partner auf den Erfolg vor. Erfahren Sie mehr über unsere Mission, eine gesündere Welt zu schaffen.</td>
+            <td>✅ Match</td>
+            <td>Öffnen Sie Ihr eigenes Studio.</td>
+            <td >• Öffnen Sie Ihr eigenes Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/promotion-terms" target="_blank">https://www.sit.orangetheory.com/de-de/promotion-terms</a></td>
+            <td>de-DE</td>
+            <td >Aktionsbedingungen | Orangetheory Fitness Deutschland</td>
+            <td >Aktionsbedingungen | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Erfahren Sie mehr über die Bedingungen unserer aktuellen Promotionen bei Orangetheory Fitness.</td>
+            <td >Erfahren Sie mehr über die Bedingungen unserer aktuellen Promotionen bei Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Werbebedingungen.</td>
+            <td >• Werbebedingungen.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/studio-location" target="_blank">https://www.sit.orangetheory.com/de-de/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Globale Studio-Standorte | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Sehen Sie sich unsere vollständige Liste der Orangetheory Fitness-Studios auf der ganzen Welt an. Finden Sie einen Orangetheory Fitness Standort in Ihrer Nähe!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Globale Studios</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/articles" target="_blank">https://www.sit.orangetheory.com/de-de/articles</a></td>
+            <td>de-DE</td>
+            <td >Fitness- und Wellnessartikel | Orangetheory Fitness Deutschland</td>
+            <td >Fitness- und Wellnessartikel | Orangetheory Fitness Deutschland</td>
+            <td>✅ Match</td>
+            <td >Verbinden Sie sich mit den Fitness-Experten der Orangetheorie Fitness und lesen Sie die besten Artikel, die Ihnen bei Ihrer Fitness- und Wellnessreise helfen.</td>
+            <td >Verbinden Sie sich mit den Fitness-Experten der Orangetheorie Fitness und lesen Sie die besten Artikel, die Ihnen bei Ihrer Fitness- und Wellnessreise helfen.</td>
+            <td>✅ Match</td>
+            <td>Alle Artikel</td>
+            <td >• Alle Artikel</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/real-estate" target="_blank">https://www.sit.orangetheory.com/de-de/real-estate</a></td>
+            <td>de-DE</td>
+            <td >Immobilien | Orangetheory Fitness</td>
+            <td >Immobilien | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Hier finden Sie Immobilieninformationen.</td>
+            <td >Hier finden Sie Immobilieninformationen.</td>
+            <td>✅ Match</td>
+            <td>Immobilien.</td>
+            <td >• Immobilien.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/de-de/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Gründe, warum Menschen nicht das Orangetheory DriTri ausprobieren</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Denkst du, du kannst das Rudern nicht bewältigen? Hast du Angst vor dem Laufband? Es ist Zeit, deine Ängste zu besiegen und am triathloninspirierten Event von Orangetheory, dem DriTri, teilzunehmen.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Gründe, warum Menschen nicht das Orangetheory DriTri ausprobieren.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/press" target="_blank">https://www.sit.orangetheory.com/de-de/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Presse | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Hier finden Sie Informationen für die Presse.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheorie in der Presse<br>• Medienanfragen</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/de-de/careers" target="_blank">https://www.sit.orangetheory.com/de-de/careers</a></td>
+            <td>de-DE</td>
+            <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+            <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+            <td>✅ Match</td>
+            <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+            <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+            <td>✅ Match</td>
+            <td>Muskeln aufbauen.Kalorien verbrennen.Ergebnisse erzielen.</td>
+            <td >• Muskeln aufbauen.Kalorien verbrennen.Ergebnisse erzielen.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-de</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de" target="_blank">https://www.sit.orangetheory.com/en-de</a></td>
+            <td>en-DE</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/locations" target="_blank">https://www.sit.orangetheory.com/en-de/locations</a></td>
+            <td>en-DE</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Germany</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Germany and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Germany and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/workout" target="_blank">https://www.sit.orangetheory.com/en-de/workout</a></td>
+            <td>en-DE</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Germany</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/memberships" target="_blank">https://www.sit.orangetheory.com/en-de/memberships</a></td>
+            <td>en-DE</td>
+            <td >Gym Membership | Orangetheory Fitness Germany</td>
+            <td >Gym Membership | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Germany, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Germany, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/faq" target="_blank">https://www.sit.orangetheory.com/en-de/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Germany</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Germany? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/franchising" target="_blank">https://www.sit.orangetheory.com/en-de/franchising</a></td>
+            <td>en-DE</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Germany</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Germany, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Germany, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-de/promotion-terms</a></td>
+            <td>en-DE</td>
+            <td >Promotion Terms | Orangetheory Fitness Germany</td>
+            <td >Promotion Terms | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/articles" target="_blank">https://www.sit.orangetheory.com/en-de/articles</a></td>
+            <td>en-DE</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Germany</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Germany by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Germany by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/studio-location" target="_blank">https://www.sit.orangetheory.com/en-de/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/real-estate" target="_blank">https://www.sit.orangetheory.com/en-de/real-estate</a></td>
+            <td>en-DE</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-de/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/press" target="_blank">https://www.sit.orangetheory.com/en-de/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-de/careers" target="_blank">https://www.sit.orangetheory.com/en-de/careers</a></td>
+            <td>en-DE</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: es-es</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es" target="_blank">https://www.sit.orangetheory.com/es-es</a></td>
+            <td>es-ES</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/locations" target="_blank">https://www.sit.orangetheory.com/es-es/locations</a></td>
+            <td>es-ES</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness España</td>
+            <td >Encuentra clases de fitness cerca de ti | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en España y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td >Encuentra un estudio Orangetheory Fitness cerca de ti en España y descubre cómo puedes probar nuestro entrenamiento de alta intensidad ¡gratis!</td>
+            <td>✅ Match</td>
+            <td>Encuentre un Fitness Studio de Orangetheory cerca de usted.</td>
+            <td >• Encuentre un Fitness Studio de Orangetheory cerca de usted.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/workout" target="_blank">https://www.sit.orangetheory.com/es-es/workout</a></td>
+            <td>es-ES</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness España</td>
+            <td >Entrenamiento HIIT basado en el ritmo cardíaco | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td >A diferencia de HIIT, en una clase de Fitness Orangetheory usted ajusta su nivel de esfuerzo basado en datos de nuestro monitor de ritmo cardíaco OTBeat. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Experimenta un programa total de cuerpo, fuerza y cardio.</td>
+            <td >• Experimenta un programa total de cuerpo, fuerza y cardio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/faq" target="_blank">https://www.sit.orangetheory.com/es-es/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Preguntas Frecuentes | Orangetheory Fitness España</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Tienes preguntas sobre Orangetheory Fitness? Consulte nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Preguntas frecuentes.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/memberships" target="_blank">https://www.sit.orangetheory.com/es-es/memberships</a></td>
+            <td>es-ES</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness España</td>
+            <td >Membresía de Gimnasio | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Spain, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti!</td>
+            <td >Elige entre 3 paquetes de membresía de gimnasio diferentes en Orangetheory Fitness Spain, o compra paquetes de clases: 10, 20 o 30. ¡Ve cuál es el adecuado para ti!</td>
+            <td>✅ Match</td>
+            <td>Membresías Flexibles para Todos.</td>
+            <td >• Membresías Flexibles para Todos.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/franchising" target="_blank">https://www.sit.orangetheory.com/es-es/franchising</a></td>
+            <td>es-ES</td>
+            <td >Oportunidades de franquicia | Orangetheory Fitness España</td>
+            <td >Oportunidades de franquicia | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >En Orangetheory Fitness, establecemos tanto a nuestros miembros como a nuestros socios de franquicia para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td >En Orangetheory Fitness, establecemos tanto a nuestros miembros como a nuestros socios de franquicia para el éxito. Descubre más sobre nuestra misión de crear un mundo más saludable.</td>
+            <td>✅ Match</td>
+            <td>Abre tu propio estudio.</td>
+            <td >• Abre tu propio estudio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/promotion-terms" target="_blank">https://www.sit.orangetheory.com/es-es/promotion-terms</a></td>
+            <td>es-ES</td>
+            <td >Términos de Promoción | Orangetheory Fitness EE.UU.</td>
+            <td >Términos de Promoción | Orangetheory Fitness EE.UU.</td>
+            <td>✅ Match</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td >Conozca los términos de nuestras promociones actuales en Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Términos de Promoción.</td>
+            <td >• Términos de Promoción.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/studio-location" target="_blank">https://www.sit.orangetheory.com/es-es/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Estudios globales</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/articles" target="_blank">https://www.sit.orangetheory.com/es-es/articles</a></td>
+            <td>es-ES</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness España</td>
+            <td >Artículos de Fitness y Bienestar | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td >Conéctese con los expertos en fitness de Orangetheory Fitness leyendo sus mejores artículos diseñados para ayudarle en su viaje de bienestar y fitness.</td>
+            <td>✅ Match</td>
+            <td>Todos los artículos</td>
+            <td >• Todos los artículos</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/real-estate" target="_blank">https://www.sit.orangetheory.com/es-es/real-estate</a></td>
+            <td>es-ES</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td >Bienes Raíces | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >Vea información sobre bienes raíces aquí.</td>
+            <td >Vea información sobre bienes raíces aquí.</td>
+            <td>✅ Match</td>
+            <td>Bienes Raíces.</td>
+            <td >• Bienes Raíces.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/careers" target="_blank">https://www.sit.orangetheory.com/es-es/careers</a></td>
+            <td>es-ES</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+            <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+            <td>✅ Match</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+            <td>✅ Match</td>
+            <td>Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td >• Desarrolla músculo.Quema Calorías.Obtén resultados.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/es-es/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 razones por las que las personas no intentan el DriTri de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">¿Crees que no puedes manejar el remo? ¿Temes la cinta? Es hora de conquistar tus miedos y participar en el evento DriTri, inspirado en triatlos, de Orangetheory.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 razones por las que las personas no intentan el DriTri de Orangetheory.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/es-es/press" target="_blank">https://www.sit.orangetheory.com/es-es/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Consultas de prensa y medios | Fitness de Orangetheory</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Ver información relacionada con la prensa aquí.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory en la prensa<br>• Consultas de prensa</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-es</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es" target="_blank">https://www.sit.orangetheory.com/en-es</a></td>
+            <td>en-ES</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/workout" target="_blank">https://www.sit.orangetheory.com/en-es/workout</a></td>
+            <td>en-ES</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Spain</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/memberships" target="_blank">https://www.sit.orangetheory.com/en-es/memberships</a></td>
+            <td>en-ES</td>
+            <td >Gym Membership | Orangetheory Fitness Spain</td>
+            <td >Gym Membership | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Spain, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Spain, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/locations" target="_blank">https://www.sit.orangetheory.com/en-es/locations</a></td>
+            <td>en-ES</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Spain</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Spain and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Spain and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/faq" target="_blank">https://www.sit.orangetheory.com/en-es/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Spain</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Spain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/franchising" target="_blank">https://www.sit.orangetheory.com/en-es/franchising</a></td>
+            <td>en-ES</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Spain</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Spain, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Spain, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-es/promotion-terms</a></td>
+            <td>en-ES</td>
+            <td >Promotion Terms | Orangetheory Fitness Spain</td>
+            <td >Promotion Terms | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/real-estate" target="_blank">https://www.sit.orangetheory.com/en-es/real-estate</a></td>
+            <td>en-ES</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/articles" target="_blank">https://www.sit.orangetheory.com/en-es/articles</a></td>
+            <td>en-ES</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Spain</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Spain by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Spain by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/studio-location" target="_blank">https://www.sit.orangetheory.com/en-es/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/careers" target="_blank">https://www.sit.orangetheory.com/en-es/careers</a></td>
+            <td>en-ES</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-es/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-es/press" target="_blank">https://www.sit.orangetheory.com/en-es/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-gb</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb" target="_blank">https://www.sit.orangetheory.com/en-gb</a></td>
+            <td>en-GB</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/locations" target="_blank">https://www.sit.orangetheory.com/en-gb/locations</a></td>
+            <td>en-GB</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness UK</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in UK and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in UK and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/workout" target="_blank">https://www.sit.orangetheory.com/en-gb/workout</a></td>
+            <td>en-GB</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness UK</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio programme.</td>
+            <td >• Experience a total body, strength and cardio programme.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/memberships" target="_blank">https://www.sit.orangetheory.com/en-gb/memberships</a></td>
+            <td>en-GB</td>
+            <td >Gym Membership | Orangetheory Fitness UK</td>
+            <td >Gym Membership | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness UK, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness UK, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for All.</td>
+            <td >• Flexible Memberships for All.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/faq" target="_blank">https://www.sit.orangetheory.com/en-gb/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness UK</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Do you have any questions about Orangetheory Fitness? Check out our frequently asked questions section to find further information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently Asked Questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/franchising" target="_blank">https://www.sit.orangetheory.com/en-gb/franchising</a></td>
+            <td>en-GB</td>
+            <td >Franchising Opportunities | Orangetheory Fitness UK</td>
+            <td >Franchising Opportunities | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-gb/promotion-terms</a></td>
+            <td>en-GB</td>
+            <td >Promotion Terms | Orangetheory Fitness UK</td>
+            <td >Promotion Terms | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/articles" target="_blank">https://www.sit.orangetheory.com/en-gb/articles</a></td>
+            <td>en-GB</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness UK</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/studio-location" target="_blank">https://www.sit.orangetheory.com/en-gb/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/real-estate" target="_blank">https://www.sit.orangetheory.com/en-gb/real-estate</a></td>
+            <td>en-GB</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/careers" target="_blank">https://www.sit.orangetheory.com/en-gb/careers</a></td>
+            <td>en-GB</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-gb/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and take part in Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-gb/press" target="_blank">https://www.sit.orangetheory.com/en-gb/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-bh</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh" target="_blank">https://www.sit.orangetheory.com/en-bh</a></td>
+            <td>en-BH</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/workout" target="_blank">https://www.sit.orangetheory.com/en-bh/workout</a></td>
+            <td>en-BH</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Bahrain</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/locations" target="_blank">https://www.sit.orangetheory.com/en-bh/locations</a></td>
+            <td>en-BH</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Bahrain</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Bahrain and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Bahrain and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/memberships" target="_blank">https://www.sit.orangetheory.com/en-bh/memberships</a></td>
+            <td>en-BH</td>
+            <td >Gym Membership | Orangetheory Fitness Bahrain</td>
+            <td >Gym Membership | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Bahrain, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Bahrain, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/faq" target="_blank">https://www.sit.orangetheory.com/en-bh/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Bahrain</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Bahrain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/franchising" target="_blank">https://www.sit.orangetheory.com/en-bh/franchising</a></td>
+            <td>en-BH</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Bahrain</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Bahrain, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Bahrain, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-bh/promotion-terms</a></td>
+            <td>en-BH</td>
+            <td >Promotion Terms | Orangetheory Fitness Bahrain</td>
+            <td >Promotion Terms | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/articles" target="_blank">https://www.sit.orangetheory.com/en-bh/articles</a></td>
+            <td>en-BH</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Bahrain</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Bahrain by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Bahrain by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/real-estate" target="_blank">https://www.sit.orangetheory.com/en-bh/real-estate</a></td>
+            <td>en-BH</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/studio-location" target="_blank">https://www.sit.orangetheory.com/en-bh/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/press" target="_blank">https://www.sit.orangetheory.com/en-bh/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/careers" target="_blank">https://www.sit.orangetheory.com/en-bh/careers</a></td>
+            <td>en-BH</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-bh/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-bh/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-kw</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/locations" target="_blank">https://www.sit.orangetheory.com/en-kw/locations</a></td>
+            <td>en-KW</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Kuwait</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Kuwait and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Kuwait and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw" target="_blank">https://www.sit.orangetheory.com/en-kw</a></td>
+            <td>en-KW</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/faq" target="_blank">https://www.sit.orangetheory.com/en-kw/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Kuwait</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Kuwait? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/workout" target="_blank">https://www.sit.orangetheory.com/en-kw/workout</a></td>
+            <td>en-KW</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Kuwait</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/memberships" target="_blank">https://www.sit.orangetheory.com/en-kw/memberships</a></td>
+            <td>en-KW</td>
+            <td >Gym Membership | Orangetheory Fitness Kuwait</td>
+            <td >Gym Membership | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Kuwait, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Kuwait, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/franchising" target="_blank">https://www.sit.orangetheory.com/en-kw/franchising</a></td>
+            <td>en-KW</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Kuwait</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Kuwait, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Kuwait, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-kw/promotion-terms</a></td>
+            <td>en-KW</td>
+            <td >Promotion Terms | Orangetheory Fitness Kuwait</td>
+            <td >Promotion Terms | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/articles" target="_blank">https://www.sit.orangetheory.com/en-kw/articles</a></td>
+            <td>en-KW</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Kuwait</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Kuwait by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Kuwait by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/press" target="_blank">https://www.sit.orangetheory.com/en-kw/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/real-estate" target="_blank">https://www.sit.orangetheory.com/en-kw/real-estate</a></td>
+            <td>en-KW</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-kw/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/studio-location" target="_blank">https://www.sit.orangetheory.com/en-kw/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-kw/careers" target="_blank">https://www.sit.orangetheory.com/en-kw/careers</a></td>
+            <td>en-KW</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-qa</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa" target="_blank">https://www.sit.orangetheory.com/en-qa</a></td>
+            <td>en-QA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/locations" target="_blank">https://www.sit.orangetheory.com/en-qa/locations</a></td>
+            <td>en-QA</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Qatar</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Qatar and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Qatar and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/faq" target="_blank">https://www.sit.orangetheory.com/en-qa/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Qatar</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Qatar? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/memberships" target="_blank">https://www.sit.orangetheory.com/en-qa/memberships</a></td>
+            <td>en-QA</td>
+            <td >Gym Membership | Orangetheory Fitness Qatar</td>
+            <td >Gym Membership | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Qatar, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Qatar, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/franchising" target="_blank">https://www.sit.orangetheory.com/en-qa/franchising</a></td>
+            <td>en-QA</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Qatar</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Qatar, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Qatar, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-qa/promotion-terms</a></td>
+            <td>en-QA</td>
+            <td >Promotion Terms | Orangetheory Fitness Qatar</td>
+            <td >Promotion Terms | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/articles" target="_blank">https://www.sit.orangetheory.com/en-qa/articles</a></td>
+            <td>en-QA</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Qatar</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Qatar by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Qatar by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/real-estate" target="_blank">https://www.sit.orangetheory.com/en-qa/real-estate</a></td>
+            <td>en-QA</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-qa/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-qa/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/press" target="_blank">https://www.sit.orangetheory.com/en-qa/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/careers" target="_blank">https://www.sit.orangetheory.com/en-qa/careers</a></td>
+            <td>en-QA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-qa/workout" target="_blank">https://www.sit.orangetheory.com/en-qa/workout</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">Heart-Rate Based HIIT Workout | Orangetheory Fitness Qatar</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td style="background-color:#fff3cd;">Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;"><i>No H1 found</i></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">0</td>
+          </tr></tbody>
+      </table>
+<hr>
+
+      <h2 style="margin-top:40px;">🌐 Locale: en-sa</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>URL</th>
+            <th>inLanguage (Schema)</th>
+            <th>Actual Title</th>
+            <th>Schema Name</th>
+            <th>Title Match</th>
+            <th>Actual Description</th>
+            <th>Schema Description</th>
+            <th>Description Match</th>
+            <th>Schema Headline</th>
+            <th>Actual H1 Text</th>
+            <th>H1 Match</th>
+            <th>H1 Count</th>
+          </tr>
+        </thead>
+        <tbody><tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/workout" target="_blank">https://www.sit.orangetheory.com/en-sa/workout</a></td>
+            <td>en-SA</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Saudi Arabia</td>
+            <td >Heart-Rate Based HIIT Workout | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td >Unlike HIIT, at an Orangetheory Fitness class you adjust your level of effort based on data from our OTBeat heart rate monitor. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Experience a total body, strength and cardio program.</td>
+            <td >• Experience a total body, strength and cardio program.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/locations" target="_blank">https://www.sit.orangetheory.com/en-sa/locations</a></td>
+            <td>en-SA</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Saudi Arabia</td>
+            <td >Find Fitness Classes Near You | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Find an Orangetheory Fitness studio near you in Saudi Arabia and find out how you can try our high intensity workout for free!</td>
+            <td >Find an Orangetheory Fitness studio near you in Saudi Arabia and find out how you can try our high intensity workout for free!</td>
+            <td>✅ Match</td>
+            <td>Find an Orangetheory Fitness Studio Near You.</td>
+            <td >• Find an Orangetheory Fitness Studio Near You.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/memberships" target="_blank">https://www.sit.orangetheory.com/en-sa/memberships</a></td>
+            <td>en-SA</td>
+            <td >Gym Membership | Orangetheory Fitness Saudi Arabia</td>
+            <td >Gym Membership | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Saudi Arabia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td >Choose From 3 Different Gym Membership Packages at Orangetheory Fitness Saudi Arabia, or Purchase Class Packs - 10, 20, or 30. See Which Is Right for You!</td>
+            <td>✅ Match</td>
+            <td>Flexible Memberships for Everyone.</td>
+            <td >• Flexible Memberships for Everyone.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa" target="_blank">https://www.sit.orangetheory.com/en-sa</a></td>
+            <td>en-SA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Burn Fat.Build Muscle.</td>
+            <td style="background-color:#fff3cd;">• Build Muscle.Burn Calories.Get Results.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/faq" target="_blank">https://www.sit.orangetheory.com/en-sa/faq</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Frequently Asked Questions | Orangetheory Fitness Saudi Arabia</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Have questions about Orangetheory Fitness Saudi Arabia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Frequently asked questions.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/franchising" target="_blank">https://www.sit.orangetheory.com/en-sa/franchising</a></td>
+            <td>en-SA</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Saudi Arabia</td>
+            <td >Franchising Opportunities | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >At Orangetheory Fitness Saudi Arabia, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td >At Orangetheory Fitness Saudi Arabia, we set both our members and franchise partners up for success. Find out more about our mission to create a healthier world.</td>
+            <td>✅ Match</td>
+            <td>Open Your Own Studio.</td>
+            <td >• Open Your Own Studio.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/promotion-terms" target="_blank">https://www.sit.orangetheory.com/en-sa/promotion-terms</a></td>
+            <td>en-SA</td>
+            <td >Promotion Terms | Orangetheory Fitness Saudi Arabia</td>
+            <td >Promotion Terms | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td >Learn more about the terms of our current promotions at Orangetheory Fitness.</td>
+            <td>✅ Match</td>
+            <td>Promotion Terms.</td>
+            <td >• Promotion Terms.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/real-estate" target="_blank">https://www.sit.orangetheory.com/en-sa/real-estate</a></td>
+            <td>en-SA</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td >Real Estate | Orangetheory Fitness</td>
+            <td>✅ Match</td>
+            <td >View real estate information here.</td>
+            <td >View real estate information here.</td>
+            <td>✅ Match</td>
+            <td>Real Estate.</td>
+            <td >• Real Estate.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/articles/10-reasons-people-dont-try-the-orangetheory-dritri" target="_blank">https://www.sit.orangetheory.com/en-sa/articles/10-reasons-people-dont-try-the-orangetheory-dritri</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">10 Reasons People Don’t Try the Orangetheory DriTri</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">Think you can’t handle the row? Dread the tread? It’s time to conquer your fears and do Orangetheory’s triathlon-inspired event, the DriTri.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• 10 Reasons People Don’t Try the Orangetheory DriTri.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-sa/studio-location</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Global Studios.</td>
+            <td>⚠️ Mismatch</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/articles" target="_blank">https://www.sit.orangetheory.com/en-sa/articles</a></td>
+            <td>en-SA</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Saudi Arabia</td>
+            <td >Fitness and Wellness Articles | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Saudi Arabia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td >Connect with the fitness experts at Orangetheory Fitness Saudi Arabia by reading their best articles designed to help you in your fitness and wellness journey.</td>
+            <td>✅ Match</td>
+            <td>All Articles.</td>
+            <td >• All Articles.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/press" target="_blank">https://www.sit.orangetheory.com/en-sa/press</a></td>
+            <td>-</td>
+            <td style="background-color:#fff3cd;">Press | Orangetheory Fitness</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">View press related information here.</td>
+            <td style="background-color:#fff3cd;"></td>
+            <td>⚠️ Mismatch</td>
+            <td></td>
+            <td style="background-color:#fff3cd;">• Orangetheory in the Press.<br>• Media Inquiries.</td>
+            <td>⚠️ Mismatch</td>
+            <td style="background-color:#fff3cd;">2</td>
+          </tr>
+<tr>
+            <td><a href="https://www.sit.orangetheory.com/en-sa/careers" target="_blank">https://www.sit.orangetheory.com/en-sa/careers</a></td>
+            <td>en-SA</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+            <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+            <td>✅ Match</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+            <td>✅ Match</td>
+            <td>Build Muscle.Burn Calories.Get Results.</td>
+            <td >• Build Muscle.Burn Calories.Get Results.</td>
+            <td>✅ Match</td>
+            <td >1</td>
+          </tr></tbody>
+      </table>
+</body>
+</html>
