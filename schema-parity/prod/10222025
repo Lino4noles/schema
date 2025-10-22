@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meta vs Schema Comparison - @STRUCTURE_AND_META</title>
+<style>
+  body { font-family: system-ui, Arial; padding: 20px; margin: 0; overflow-x: hidden; }
+  h1, h2 { color: #222; margin: 0 0 10px; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px 8px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
+  }
+  th {
+    background: #f3f3f3;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  tr:nth-child(even) { background: #fafafa; }
+  a { color: #1a73e8; text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+
+  th:nth-child(1) { width: 12%; }
+  th:nth-child(2) { width: 4%; }
+  th:nth-child(3) { width: 6%; }
+  th:nth-child(4), th:nth-child(5) { width: 10%; }
+  th:nth-child(6) { width: 7%; }
+  th:nth-child(7), th:nth-child(8) { width: 12%; }
+  th:nth-child(9) { width: 7%; }
+  th:nth-child(10), th:nth-child(11) { width: 10%; }
+  th:nth-child(12) { width: 7%; }
+  th:nth-child(13) { width: 4%; }
+
+  .highlight-col {
+    background-color: #e8f4ff !important;
+    font-weight: 600;
+    border-left: 2px solid #2196f3;
+    border-right: 2px solid #2196f3;
+  }
+
+  .summary {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+  }
+  .summary h2 { margin-top: 0; font-size: 16px; }
+  .summary-table {
+    border-collapse: collapse;
+    width: auto;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .summary-table th, .summary-table td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: center;
+  }
+  .summary-table th { background: #eee; }
+
+  @media print {
+    body { zoom: 0.9; }
+  }
+</style>
+</head>
+<body>
+  <h1>Meta, Description & Headline Comparison Report</h1>
+  <p><strong>Generated:</strong> 23-10-2025 - 01-22 AM</p>
+
+  <div class="summary">
+    <h2>📊 Summary Overview</h2>
+    <table class="summary-table">
+      <tr><th>Metric</th><th>Passed</th><th>Failed</th><th>Total</th></tr>
+      <tr><td><b>Title Match</b></td><td>36</td><td>0</td><td>36</td></tr>
+      <tr><td><b>Description Match</b></td><td>36</td><td>0</td><td>36</td></tr>
+      <tr><td><b>H1 Match</b></td><td>36</td><td>0</td><td>36</td></tr>
+      <tr><td><b>H1 Count (exactly 1)</b></td><td>36</td><td>0</td><td>36</td></tr>
+    </table>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>URL</th>
+        <th>Locale</th>
+        <th>inLanguage</th>
+        <th>Actual Title</th>
+        <th>Schema Name</th>
+        <th class="highlight-col">Title Match</th>
+        <th>Actual Description</th>
+        <th>Schema Description</th>
+        <th class="highlight-col">Description Match</th>
+        <th>Schema Headline</th>
+        <th>Actual H1 Text</th>
+        <th class="highlight-col">H1 Match</th>
+        <th>H1 Count</th>
+      </tr>
+    </thead>
+    <tbody><tr>
+        <td><a href="https://orangetheory.com/da-dk" target="_blank">https://orangetheory.com/da-dk</a></td>
+        <td>da-dk</td>
+        <td>da-DK</td>
+        <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+        <td >Gruppefitness og intervaltræning | Orangetheory Fitness Danmark</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+        <td >Deltag i de bedste gruppefitnesshold med Orangetheory Danmark - træningshold, der er designet til at give en helkropstræning i et støttende miljø. Prøv os gratis i dag!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Brænd fedt.Opbyg muskler.</td>
+        <td >• Brænd fedt.Opbyg muskler.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/de-de" target="_blank">https://orangetheory.com/de-de</a></td>
+        <td>de-de</td>
+        <td>de-DE</td>
+        <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+        <td >Gruppen-Fitnesskurse & Herz-Kreislauf-Training</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+        <td >Besuchen Sie die Best Group Fitness Classes mit Orangetheory – Workout Classes Designed to give a Full Body Workout in a Supportive Environment. Probieren Sie uns heute kostenlos aus!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Fett verbrennen.Muskel aufbauen.</td>
+        <td >• Fett verbrennen.Muskel aufbauen.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-au" target="_blank">https://orangetheory.com/en-au</a></td>
+        <td>en-au</td>
+        <td>en-AU</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Australia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Australia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-bh" target="_blank">https://orangetheory.com/en-bh</a></td>
+        <td>en-bh</td>
+        <td>en-BH</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Bahrain</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Bahrain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-ca" target="_blank">https://orangetheory.com/en-ca</a></td>
+        <td>en-ca</td>
+        <td>en-CA</td>
+        <td >Group Fitness Class & Heart Rate-Based Interval Training</td>
+        <td >Group Fitness Class & Heart Rate-Based Interval Training</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Canada — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Canada — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-co" target="_blank">https://orangetheory.com/en-co</a></td>
+        <td>en-co</td>
+        <td>en-CO</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Colombia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Colombia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-cr" target="_blank">https://orangetheory.com/en-cr</a></td>
+        <td>en-cr</td>
+        <td>en-CR</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Costa Rica</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Costa Rica — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-de" target="_blank">https://orangetheory.com/en-de</a></td>
+        <td>en-de</td>
+        <td>en-DE</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Germany</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Germany — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-dk" target="_blank">https://orangetheory.com/en-dk</a></td>
+        <td>en-dk</td>
+        <td>en-DK</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Denmark</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Denmark — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-do" target="_blank">https://orangetheory.com/en-do</a></td>
+        <td>en-do</td>
+        <td>en-DO</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Dominican Republic</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Dominican Republic — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-es" target="_blank">https://orangetheory.com/en-es</a></td>
+        <td>en-es</td>
+        <td>en-ES</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Spain</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Spain — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-fr" target="_blank">https://orangetheory.com/en-fr</a></td>
+        <td>en-fr</td>
+        <td>en-US</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-gb" target="_blank">https://orangetheory.com/en-gb</a></td>
+        <td>en-gb</td>
+        <td>en-GB</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness UK</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory UK — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-gt" target="_blank">https://orangetheory.com/en-gt</a></td>
+        <td>en-gt</td>
+        <td>en-GT</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Guatemala</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Guatemala — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-in" target="_blank">https://orangetheory.com/en-in</a></td>
+        <td>en-in</td>
+        <td>en-IN</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness India</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory India — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-jp" target="_blank">https://orangetheory.com/en-jp</a></td>
+        <td>en-jp</td>
+        <td>en-JP</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Japan</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Japan — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-kw" target="_blank">https://orangetheory.com/en-kw</a></td>
+        <td>en-kw</td>
+        <td>en-KW</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Kuwait</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Kuwait — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-mx" target="_blank">https://orangetheory.com/en-mx</a></td>
+        <td>en-mx</td>
+        <td>en-MX</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Mexico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Mexico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-pa" target="_blank">https://orangetheory.com/en-pa</a></td>
+        <td>en-pa</td>
+        <td>en-PA</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Panama</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Panama — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-pe" target="_blank">https://orangetheory.com/en-pe</a></td>
+        <td>en-pe</td>
+        <td>en-PE</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Peru</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Peru</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Peru — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Peru — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-pr" target="_blank">https://orangetheory.com/en-pr</a></td>
+        <td>en-pr</td>
+        <td>en-PR</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Puerto Rico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Puerto Rico — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-qa" target="_blank">https://orangetheory.com/en-qa</a></td>
+        <td>en-qa</td>
+        <td>en-QA</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Qatar</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Qatar — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-sa" target="_blank">https://orangetheory.com/en-sa</a></td>
+        <td>en-sa</td>
+        <td>en-SA</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+        <td >Group Fitness Class & Interval Training | Orangetheory Fitness Saudi Arabia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory Saudi Arabia — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/en-us" target="_blank">https://orangetheory.com/en-us</a></td>
+        <td>en-us</td>
+        <td>en-US</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-co" target="_blank">https://orangetheory.com/es-co</a></td>
+        <td>es-co</td>
+        <td>es-CO</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Colombia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Colombia — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento de Cuerpo Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Desarrolla músculo.</td>
+        <td >• Quema grasa.Desarrolla músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-cr" target="_blank">https://orangetheory.com/es-cr</a></td>
+        <td>es-cr</td>
+        <td>es-CR</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Costa Rica</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory Costa Rica — Clases de Entrenamiento Diseñadas para Ofrecer un Entrenamiento de Cuerpo Completo en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Desarrolla músculo.</td>
+        <td >• Quema grasa.Desarrolla músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-do" target="_blank">https://orangetheory.com/es-do</a></td>
+        <td>es-do</td>
+        <td>es-DO</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness República Dominicana</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las mejores clases de fitness grupales con Orangetheory República Dominicana — clases de entrenamiento diseñadas para ofrecer un entrenamiento completo en un ambiente de apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Construye músculo.</td>
+        <td >• Quema grasa.Construye músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-es" target="_blank">https://orangetheory.com/es-es</a></td>
+        <td>es-es</td>
+        <td>es-ES</td>
+        <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+        <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness España</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory España — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Desarrolla músculo.</td>
+        <td >• Quema grasa.Desarrolla músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-gt" target="_blank">https://orangetheory.com/es-gt</a></td>
+        <td>es-gt</td>
+        <td>es-GT</td>
+        <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+        <td >Clases de Fitness en Grupo y Entrenamiento por Intervalos Basado en la Frecuencia Cardíaca | Orangetheory Fitness Guatemala</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Mejores Clases de Fitness en Grupo con Orangetheory — Clases de Entrenamiento Diseñadas para Brindar un Entrenamiento Completo en un Ambiente de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Desarrolla músculo.</td>
+        <td >• Quema grasa.Desarrolla músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-mx" target="_blank">https://orangetheory.com/es-mx</a></td>
+        <td>es-mx</td>
+        <td>es-MX</td>
+        <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+        <td >Clase de acondicionamiento físico grupal y entrenamiento por intervalos | Orangetheory Fitness México</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory México — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Construye músculo.</td>
+        <td >• Quema grasa.Construye músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-pa" target="_blank">https://orangetheory.com/es-pa</a></td>
+        <td>es-pa</td>
+        <td>es-PA</td>
+        <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+        <td >Clase de fitness en grupo y entrenamiento por intervalos | Orangetheory Fitness Panamá</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Panamá — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema Grasa.Construye Músculo.</td>
+        <td >• Quema Grasa.Construye Músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-pe" target="_blank">https://orangetheory.com/es-pe</a></td>
+        <td>es-pe</td>
+        <td>es-PE</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Perú</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Perú — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Construye músculo.</td>
+        <td >• Quema grasa.Construye músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/es-pr" target="_blank">https://orangetheory.com/es-pr</a></td>
+        <td>es-pr</td>
+        <td>es-PR</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+        <td >Clase de Fitness en Grupo y Entrenamiento por Intervalos | Orangetheory Fitness Puerto Rico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td >Únete a las Clases de Fitness de los Mejores Grupos con Orangetheory Puerto Rico — Clases de Trabajo Diseñadas para Dar un Entorno Completa en un Entorno de Apoyo. ¡Pruébanos gratis hoy!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Quema grasa.Desarrolla músculo.</td>
+        <td >• Quema grasa.Desarrolla músculo.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/fr-ca" target="_blank">https://orangetheory.com/fr-ca</a></td>
+        <td>fr-ca</td>
+        <td>fr-CA</td>
+        <td >Cours de conditionnement physique en groupe et entraînement par intervalles basé sur la fréquence cardiaque</td>
+        <td >Cours de conditionnement physique en groupe et entraînement par intervalles basé sur la fréquence cardiaque</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Joignez-vous aux meilleurs cours de conditionnement physique en groupe avec Orangetheory — des cours d'entraînement conçus pour offrir un entraînement complet dans un environnement de soutien. Essayez-nous gratuitement aujourd'hui !</td>
+        <td >Joignez-vous aux meilleurs cours de conditionnement physique en groupe avec Orangetheory — des cours d'entraînement conçus pour offrir un entraînement complet dans un environnement de soutien. Essayez-nous gratuitement aujourd'hui !</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Brûlez les graisses.Développez vos muscles.</td>
+        <td >• Brûlez les graisses.Développez vos muscles.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/fr-fr" target="_blank">https://orangetheory.com/fr-fr</a></td>
+        <td>fr-fr</td>
+        <td>en-US</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td >Group Fitness Classes & Heart Rate-Based Interval Training</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td >Join the Best Group Fitness Classes with Orangetheory — Workout Classes Designed to Give a Full Body Workout in a Supportive Environment. Try Us for Free Today!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Burn Fat.Build Muscle.</td>
+        <td >• Burn Fat.Build Muscle.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://orangetheory.com/ja-jp" target="_blank">https://orangetheory.com/ja-jp</a></td>
+        <td>ja-jp</td>
+        <td>ja-JP</td>
+        <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+        <td >グループフィットネスクラス＆インターバルトレーニング｜オレンジセオリー フィットネスジャパン</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >オレンジセオリーで最高のグループフィットネスクラスに参加しましょう — コーチによるサポートのもと、全身をバランスよく鍛えられるワークアウトプログラムです。 まずは無料でお試しください！</td>
+        <td >オレンジセオリーで最高のグループフィットネスクラスに参加しましょう — コーチによるサポートのもと、全身をバランスよく鍛えられるワークアウトプログラムです。 まずは無料でお試しください！</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >脂肪燃焼。筋力増強。</td>
+        <td >• 脂肪燃焼。筋力増強。</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr></tbody>
+  </table>
+</body>
+</html>
