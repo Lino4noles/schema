@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meta vs Schema Comparison - @STRUCTURE_AND_META</title>
+<style>
+  body { font-family: system-ui, Arial; padding: 20px; margin: 0; overflow-x: hidden; }
+  h1, h2 { color: #222; margin: 0 0 10px; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px 8px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
+  }
+  th {
+    background: #f3f3f3;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  tr:nth-child(even) { background: #fafafa; }
+  a { color: #1a73e8; text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+
+  th:nth-child(1) { width: 12%; }
+  th:nth-child(2) { width: 4%; }
+  th:nth-child(3) { width: 6%; }
+  th:nth-child(4), th:nth-child(5) { width: 10%; }
+  th:nth-child(6) { width: 7%; }
+  th:nth-child(7), th:nth-child(8) { width: 12%; }
+  th:nth-child(9) { width: 7%; }
+  th:nth-child(10), th:nth-child(11) { width: 10%; }
+  th:nth-child(12) { width: 7%; }
+  th:nth-child(13) { width: 4%; }
+
+  .highlight-col {
+    background-color: #e8f4ff !important;
+    font-weight: 600;
+    border-left: 2px solid #2196f3;
+    border-right: 2px solid #2196f3;
+  }
+
+  .summary {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+  }
+  .summary h2 { margin-top: 0; font-size: 16px; }
+  .summary-table {
+    border-collapse: collapse;
+    width: auto;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .summary-table th, .summary-table td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: center;
+  }
+  .summary-table th { background: #eee; }
+
+  @media print {
+    body { zoom: 0.9; }
+  }
+</style>
+</head>
+<body>
+  <h1>Meta, Description & Headline Comparison Report</h1>
+  <p><strong>Generated:</strong> 24-10-2025 - 08-40 PM</p>
+
+  <div class="summary">
+    <h2>📊 Summary Overview</h2>
+    <table class="summary-table">
+      <tr><th>Metric</th><th>Passed</th><th>Failed</th><th>Total</th></tr>
+      <tr><td><b>Title Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>Description Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>H1 Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>H1 Count (exactly 1)</b></td><td>34</td><td>0</td><td>34</td></tr>
+    </table>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>URL</th>
+        <th>Locale</th>
+        <th>inLanguage</th>
+        <th>Actual Title</th>
+        <th>Schema Name</th>
+        <th class="highlight-col">Title Match</th>
+        <th>Actual Description</th>
+        <th>Schema Description</th>
+        <th class="highlight-col">Description Match</th>
+        <th>Schema Headline</th>
+        <th>Actual H1 Text</th>
+        <th class="highlight-col">H1 Match</th>
+        <th>H1 Count</th>
+      </tr>
+    </thead>
+    <tbody><tr>
+        <td><a href="https://www.uat.orangetheory.com/da-dk/faq" target="_blank">https://www.uat.orangetheory.com/da-dk/faq</a></td>
+        <td>da-dk</td>
+        <td>da</td>
+        <td >Ofte Stillede Spørgsmål | Orangetheory Fitness Danmark</td>
+        <td >Ofte Stillede Spørgsmål | Orangetheory Fitness Danmark</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Har du spørgsmål om Orangetheory Fitness? Tjek vores ofte stillede spørgsmål sektion for at finde mere information om vores træning og meget mere!</td>
+        <td >Har du spørgsmål om Orangetheory Fitness? Tjek vores ofte stillede spørgsmål sektion for at finde mere information om vores træning og meget mere!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ofte stillede spørgsmål.</td>
+        <td >• Ofte stillede spørgsmål.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/de-de/faq" target="_blank">https://www.uat.orangetheory.com/de-de/faq</a></td>
+        <td>de-de</td>
+        <td>de</td>
+        <td >Häufig gestellte Fragen | Orangetheory Fitness Deutschland</td>
+        <td >Häufig gestellte Fragen | Orangetheory Fitness Deutschland</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Haben Sie Fragen zu Orangetheory Fitness? Besuchen Sie unseren Bereich für häufig gestellte Fragen, um weitere Informationen über unser Training und vieles mehr zu erhalten!</td>
+        <td >Haben Sie Fragen zu Orangetheory Fitness? Besuchen Sie unseren Bereich für häufig gestellte Fragen, um weitere Informationen über unser Training und vieles mehr zu erhalten!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Häufig gestellte Fragen.</td>
+        <td >• Häufig gestellte Fragen.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-au/faq" target="_blank">https://www.uat.orangetheory.com/en-au/faq</a></td>
+        <td>en-au</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Australia</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Australia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Australia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Australia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-bh/faq" target="_blank">https://www.uat.orangetheory.com/en-bh/faq</a></td>
+        <td>en-bh</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Bahrain</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Bahrain</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Bahrain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Bahrain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-ca/faq" target="_blank">https://www.uat.orangetheory.com/en-ca/faq</a></td>
+        <td>en-ca</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Canada</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Canada</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently Asked Questions.</td>
+        <td >• Frequently Asked Questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-co/faq" target="_blank">https://www.uat.orangetheory.com/en-co/faq</a></td>
+        <td>en-co</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Colombia</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Colombia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Colombia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Colombia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-cr/faq" target="_blank">https://www.uat.orangetheory.com/en-cr/faq</a></td>
+        <td>en-cr</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Costa Rica</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Costa Rica</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Costa Rica? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Costa Rica? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-de/faq" target="_blank">https://www.uat.orangetheory.com/en-de/faq</a></td>
+        <td>en-de</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Germany</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Germany</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Germany? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Germany? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-dk/faq" target="_blank">https://www.uat.orangetheory.com/en-dk/faq</a></td>
+        <td>en-dk</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Denmark</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Denmark</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Denmark? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Denmark? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-do/faq" target="_blank">https://www.uat.orangetheory.com/en-do/faq</a></td>
+        <td>en-do</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Dominican Republic</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Dominican Republic</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Dominican Republic? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Dominican Republic? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-es/faq" target="_blank">https://www.uat.orangetheory.com/en-es/faq</a></td>
+        <td>en-es</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Spain</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Spain</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Spain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Spain? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-gb/faq" target="_blank">https://www.uat.orangetheory.com/en-gb/faq</a></td>
+        <td>en-gb</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness UK</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness UK</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Do you have any questions about Orangetheory Fitness? Check out our frequently asked questions section to find further information regarding our workout and much more!</td>
+        <td >Do you have any questions about Orangetheory Fitness? Check out our frequently asked questions section to find further information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently Asked Questions.</td>
+        <td >• Frequently Asked Questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-gt/faq" target="_blank">https://www.uat.orangetheory.com/en-gt/faq</a></td>
+        <td>en-gt</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Guatemala</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Guatemala</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Guatemala? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Guatemala? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-in/faq" target="_blank">https://www.uat.orangetheory.com/en-in/faq</a></td>
+        <td>en-in</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness India</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness India</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness India? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness India? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-jp/faq" target="_blank">https://www.uat.orangetheory.com/en-jp/faq</a></td>
+        <td>en-jp</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Japan</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Japan</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Japan? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Japan? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-kw/faq" target="_blank">https://www.uat.orangetheory.com/en-kw/faq</a></td>
+        <td>en-kw</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Kuwait</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Kuwait</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Kuwait? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Kuwait? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-mx/faq" target="_blank">https://www.uat.orangetheory.com/en-mx/faq</a></td>
+        <td>en-mx</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Mexico</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Mexico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Mexico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Mexico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-pa/faq" target="_blank">https://www.uat.orangetheory.com/en-pa/faq</a></td>
+        <td>en-pa</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Panama</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Panama</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Panama? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Panama? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-pe/faq" target="_blank">https://www.uat.orangetheory.com/en-pe/faq</a></td>
+        <td>en-pe</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Peru</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Peru</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Peru? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Peru? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-pr/faq" target="_blank">https://www.uat.orangetheory.com/en-pr/faq</a></td>
+        <td>en-pr</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Puerto Rico</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Puerto Rico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Puerto Rico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Puerto Rico? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-qa/faq" target="_blank">https://www.uat.orangetheory.com/en-qa/faq</a></td>
+        <td>en-qa</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Qatar</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Qatar</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Qatar? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Qatar? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-sa/faq" target="_blank">https://www.uat.orangetheory.com/en-sa/faq</a></td>
+        <td>en-sa</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Saudi Arabia</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness Saudi Arabia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness Saudi Arabia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness Saudi Arabia? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/en-us/faq" target="_blank">https://www.uat.orangetheory.com/en-us/faq</a></td>
+        <td>en-us</td>
+        <td>en</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness US</td>
+        <td >Frequently Asked Questions | Orangetheory Fitness US</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td >Have questions about Orangetheory Fitness? Check out our frequently asked questions section to find more information regarding our workout and much more!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Frequently asked questions.</td>
+        <td >• Frequently asked questions.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-co/faq" target="_blank">https://www.uat.orangetheory.com/es-co/faq</a></td>
+        <td>es-co</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Colombia</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Colombia</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Mira nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Mira nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-cr/faq" target="_blank">https://www.uat.orangetheory.com/es-cr/faq</a></td>
+        <td>es-cr</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Costa Rica</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Costa Rica</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-do/faq" target="_blank">https://www.uat.orangetheory.com/es-do/faq</a></td>
+        <td>es-do</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness República Dominicana</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness República Dominicana</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-es/faq" target="_blank">https://www.uat.orangetheory.com/es-es/faq</a></td>
+        <td>es-es</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness España</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness España</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? Consulte nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? Consulte nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-gt/faq" target="_blank">https://www.uat.orangetheory.com/es-gt/faq</a></td>
+        <td>es-gt</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Guatemala</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Guatemala</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-mx/faq" target="_blank">https://www.uat.orangetheory.com/es-mx/faq</a></td>
+        <td>es-mx</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness México</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness México</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-pa/faq" target="_blank">https://www.uat.orangetheory.com/es-pa/faq</a></td>
+        <td>es-pa</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Panamá</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Panamá</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-pe/faq" target="_blank">https://www.uat.orangetheory.com/es-pe/faq</a></td>
+        <td>es-pe</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Perú</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Perú</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Consulta nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/es-pr/faq" target="_blank">https://www.uat.orangetheory.com/es-pr/faq</a></td>
+        <td>es-pr</td>
+        <td>es</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Puerto Rico</td>
+        <td >Preguntas Frecuentes | Orangetheory Fitness Puerto Rico</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td >¿Tienes preguntas sobre Orangetheory Fitness? ¡Visita nuestra sección de preguntas frecuentes para encontrar más información sobre nuestro entrenamiento y mucho más!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Preguntas frecuentes.</td>
+        <td >• Preguntas frecuentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/fr-ca/faq" target="_blank">https://www.uat.orangetheory.com/fr-ca/faq</a></td>
+        <td>fr-ca</td>
+        <td>fr</td>
+        <td >Questions Fréquemment Posées | Orangetheory Fitness Canada</td>
+        <td >Questions Fréquemment Posées | Orangetheory Fitness Canada</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Vous avez des questions sur Orangetheory Fitness ? Découvrez notre section de questions fréquemment posées pour trouver plus d'informations concernant notre entraînement et bien plus encore !</td>
+        <td >Vous avez des questions sur Orangetheory Fitness ? Découvrez notre section de questions fréquemment posées pour trouver plus d'informations concernant notre entraînement et bien plus encore !</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Questions fréquentes.</td>
+        <td >• Questions fréquentes.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.uat.orangetheory.com/ja-jp/faq" target="_blank">https://www.uat.orangetheory.com/ja-jp/faq</a></td>
+        <td>ja-jp</td>
+        <td>ja</td>
+        <td >よくある質問｜オレンジセオリー フィットネスジャパン</td>
+        <td >よくある質問｜オレンジセオリー フィットネスジャパン</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >オレンジセオリー フィットネスジャパンについてご質問がありますか？ フィットネスジャパンのよくあるご質問をご覧ください！</td>
+        <td >オレンジセオリー フィットネスジャパンについてご質問がありますか？ フィットネスジャパンのよくあるご質問をご覧ください！</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >よくある質問</td>
+        <td >• よくある質問</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr></tbody>
+  </table>
+</body>
+</html>
