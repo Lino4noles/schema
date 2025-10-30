@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meta vs Schema Comparison - @STRUCTURE_AND_META</title>
+<style>
+  body { font-family: system-ui, Arial; padding: 20px; margin: 0; overflow-x: hidden; }
+  h1, h2 { color: #222; margin: 0 0 10px; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px 8px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
+  }
+  th {
+    background: #f3f3f3;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  tr:nth-child(even) { background: #fafafa; }
+  a { color: #1a73e8; text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+
+  th:nth-child(1) { width: 12%; }
+  th:nth-child(2) { width: 4%; }
+  th:nth-child(3) { width: 6%; }
+  th:nth-child(4), th:nth-child(5) { width: 10%; }
+  th:nth-child(6) { width: 7%; }
+  th:nth-child(7), th:nth-child(8) { width: 12%; }
+  th:nth-child(9) { width: 7%; }
+  th:nth-child(10), th:nth-child(11) { width: 10%; }
+  th:nth-child(12) { width: 7%; }
+  th:nth-child(13) { width: 4%; }
+
+  .highlight-col {
+    background-color: #e8f4ff !important;
+    font-weight: 600;
+    border-left: 2px solid #2196f3;
+    border-right: 2px solid #2196f3;
+  }
+
+  .summary {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+  }
+  .summary h2 { margin-top: 0; font-size: 16px; }
+  .summary-table {
+    border-collapse: collapse;
+    width: auto;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .summary-table th, .summary-table td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: center;
+  }
+  .summary-table th { background: #eee; }
+
+  @media print {
+    body { zoom: 0.9; }
+  }
+</style>
+</head>
+<body>
+  <h1>Meta, Description & Headline Comparison Report</h1>
+  <p><strong>Generated:</strong> 30-10-2025 - 11-33 PM</p>
+
+  <div class="summary">
+    <h2>📊 Summary Overview</h2>
+    <table class="summary-table">
+      <tr><th>Metric</th><th>Passed</th><th>Failed</th><th>Total</th></tr>
+      <tr><td><b>Title Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>Description Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>H1 Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>H1 Count (exactly 1)</b></td><td>0</td><td>34</td><td>34</td></tr>
+    </table>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>URL</th>
+        <th>Locale</th>
+        <th>inLanguage</th>
+        <th>Actual Title</th>
+        <th>Schema Name</th>
+        <th class="highlight-col">Title Match</th>
+        <th>Actual Description</th>
+        <th>Schema Description</th>
+        <th class="highlight-col">Description Match</th>
+        <th>Schema Headline</th>
+        <th>Actual H1 Text</th>
+        <th class="highlight-col">H1 Match</th>
+        <th>H1 Count</th>
+      </tr>
+    </thead>
+    <tbody><tr>
+        <td><a href="https://www.sit.orangetheory.com/da-dk/press" target="_blank">https://www.sit.orangetheory.com/da-dk/press</a></td>
+        <td>da-dk</td>
+        <td>da-DK</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Se presserelateret information her.</td>
+        <td >Se presserelateret information her.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory i pressen</td>
+        <td >• Orangetheory i pressen<br>• Medie Forespørgsler</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/de-de/press" target="_blank">https://www.sit.orangetheory.com/de-de/press</a></td>
+        <td>de-de</td>
+        <td>de-DE</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Hier finden Sie Informationen für die Presse.</td>
+        <td >Hier finden Sie Informationen für die Presse.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheorie in der Presse</td>
+        <td >• Orangetheorie in der Presse<br>• Medienanfragen</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-au/press" target="_blank">https://www.sit.orangetheory.com/en-au/press</a></td>
+        <td>en-au</td>
+        <td>en-AU</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-bh/press" target="_blank">https://www.sit.orangetheory.com/en-bh/press</a></td>
+        <td>en-bh</td>
+        <td>en-BH</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-ca/press" target="_blank">https://www.sit.orangetheory.com/en-ca/press</a></td>
+        <td>en-ca</td>
+        <td>en-CA</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-co/press" target="_blank">https://www.sit.orangetheory.com/en-co/press</a></td>
+        <td>en-co</td>
+        <td>en-CO</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-cr/press" target="_blank">https://www.sit.orangetheory.com/en-cr/press</a></td>
+        <td>en-cr</td>
+        <td>en-CR</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-de/press" target="_blank">https://www.sit.orangetheory.com/en-de/press</a></td>
+        <td>en-de</td>
+        <td>en-DE</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-dk/press" target="_blank">https://www.sit.orangetheory.com/en-dk/press</a></td>
+        <td>en-dk</td>
+        <td>en-DK</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-do/press" target="_blank">https://www.sit.orangetheory.com/en-do/press</a></td>
+        <td>en-do</td>
+        <td>en-DO</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-es/press" target="_blank">https://www.sit.orangetheory.com/en-es/press</a></td>
+        <td>en-es</td>
+        <td>en-ES</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-gb/press" target="_blank">https://www.sit.orangetheory.com/en-gb/press</a></td>
+        <td>en-gb</td>
+        <td>en-GB</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-gt/press" target="_blank">https://www.sit.orangetheory.com/en-gt/press</a></td>
+        <td>en-gt</td>
+        <td>en-GT</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-in/press" target="_blank">https://www.sit.orangetheory.com/en-in/press</a></td>
+        <td>en-in</td>
+        <td>en-IN</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-jp/press" target="_blank">https://www.sit.orangetheory.com/en-jp/press</a></td>
+        <td>en-jp</td>
+        <td>en-JP</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-kw/press" target="_blank">https://www.sit.orangetheory.com/en-kw/press</a></td>
+        <td>en-kw</td>
+        <td>en-KW</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-mx/press" target="_blank">https://www.sit.orangetheory.com/en-mx/press</a></td>
+        <td>en-mx</td>
+        <td>en-MX</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pa/press" target="_blank">https://www.sit.orangetheory.com/en-pa/press</a></td>
+        <td>en-pa</td>
+        <td>en-PA</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pe/press" target="_blank">https://www.sit.orangetheory.com/en-pe/press</a></td>
+        <td>en-pe</td>
+        <td>en-PE</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pr/press" target="_blank">https://www.sit.orangetheory.com/en-pr/press</a></td>
+        <td>en-pr</td>
+        <td>en-PR</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-qa/press" target="_blank">https://www.sit.orangetheory.com/en-qa/press</a></td>
+        <td>en-qa</td>
+        <td>en-QA</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-sa/press" target="_blank">https://www.sit.orangetheory.com/en-sa/press</a></td>
+        <td>en-sa</td>
+        <td>en-SA</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td >Press | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-us/press" target="_blank">https://www.sit.orangetheory.com/en-us/press</a></td>
+        <td>en-us</td>
+        <td>en-US</td>
+        <td >Press and Media Inquiries | Orangetheory Fitness</td>
+        <td >Press and Media Inquiries | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View press related information here.</td>
+        <td >View press related information here.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory in the Press.</td>
+        <td >• Orangetheory in the Press.<br>• Media Inquiries.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-co/press" target="_blank">https://www.sit.orangetheory.com/es-co/press</a></td>
+        <td>es-co</td>
+        <td>es-CO</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-cr/press" target="_blank">https://www.sit.orangetheory.com/es-cr/press</a></td>
+        <td>es-cr</td>
+        <td>es-CR</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-do/press" target="_blank">https://www.sit.orangetheory.com/es-do/press</a></td>
+        <td>es-do</td>
+        <td>es-DO</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-es/press" target="_blank">https://www.sit.orangetheory.com/es-es/press</a></td>
+        <td>es-es</td>
+        <td>es-ES</td>
+        <td >Consultas de prensa y medios | Fitness de Orangetheory</td>
+        <td >Consultas de prensa y medios | Fitness de Orangetheory</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información relacionada con la prensa aquí.</td>
+        <td >Ver información relacionada con la prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Consultas de prensa</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-gt/press" target="_blank">https://www.sit.orangetheory.com/es-gt/press</a></td>
+        <td>es-gt</td>
+        <td>es-GT</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-mx/press" target="_blank">https://www.sit.orangetheory.com/es-mx/press</a></td>
+        <td>es-mx</td>
+        <td>es-MX</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pa/press" target="_blank">https://www.sit.orangetheory.com/es-pa/press</a></td>
+        <td>es-pa</td>
+        <td>es-PA</td>
+        <td >Consultas de prensa y medios | Orangetheory Fitness</td>
+        <td >Consultas de prensa y medios | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información relacionada con la prensa aquí.</td>
+        <td >Ver información relacionada con la prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pe/press" target="_blank">https://www.sit.orangetheory.com/es-pe/press</a></td>
+        <td>es-pe</td>
+        <td>es-PE</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pr/press" target="_blank">https://www.sit.orangetheory.com/es-pr/press</a></td>
+        <td>es-pr</td>
+        <td>es-PR</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td >Prensa | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Ver información de prensa aquí.</td>
+        <td >Ver información de prensa aquí.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory en la prensa</td>
+        <td >• Orangetheory en la prensa<br>• Media Inquiries</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/fr-ca/press" target="_blank">https://www.sit.orangetheory.com/fr-ca/press</a></td>
+        <td>fr-ca</td>
+        <td>fr-CA</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td >Presse | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Voir les informations liées à la presse ici.</td>
+        <td >Voir les informations liées à la presse ici.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Orangetheory dans la presse</td>
+        <td >• Orangetheory dans la presse<br>• Demandes de renseignements des médias</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/ja-jp/press" target="_blank">https://www.sit.orangetheory.com/ja-jp/press</a></td>
+        <td>ja-jp</td>
+        <td>ja-JP</td>
+        <td >プレス｜オレンジセオリー フィットネス</td>
+        <td >プレス｜オレンジセオリー フィットネス</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >プレス関連情報はこちら</td>
+        <td >プレス関連情報はこちら</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >プレスにおけるオレンジ理論</td>
+        <td >• プレスにおけるオレンジ理論<br>• メディアに関するお問い合わせ</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td style="background-color:#fff3cd;">2</td>
+      </tr></tbody>
+  </table>
+</body>
+</html>
