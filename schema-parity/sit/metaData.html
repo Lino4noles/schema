@@ -1,0 +1,624 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Meta vs Schema Comparison - @STRUCTURE_AND_META</title>
+<style>
+  body { font-family: system-ui, Arial; padding: 20px; margin: 0; overflow-x: hidden; }
+  h1, h2 { color: #222; margin: 0 0 10px; }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+    table-layout: fixed;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+  }
+  th, td {
+    border: 1px solid #ccc;
+    padding: 6px 8px;
+    font-size: 12px;
+    text-align: left;
+    vertical-align: top;
+    white-space: normal;
+  }
+  th {
+    background: #f3f3f3;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  tr:nth-child(even) { background: #fafafa; }
+  a { color: #1a73e8; text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+
+  th:nth-child(1) { width: 12%; }
+  th:nth-child(2) { width: 4%; }
+  th:nth-child(3) { width: 6%; }
+  th:nth-child(4), th:nth-child(5) { width: 10%; }
+  th:nth-child(6) { width: 7%; }
+  th:nth-child(7), th:nth-child(8) { width: 12%; }
+  th:nth-child(9) { width: 7%; }
+  th:nth-child(10), th:nth-child(11) { width: 10%; }
+  th:nth-child(12) { width: 7%; }
+  th:nth-child(13) { width: 4%; }
+
+  .highlight-col {
+    background-color: #e8f4ff !important;
+    font-weight: 600;
+    border-left: 2px solid #2196f3;
+    border-right: 2px solid #2196f3;
+  }
+
+  .summary {
+    background: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px 16px;
+    margin-bottom: 20px;
+  }
+  .summary h2 { margin-top: 0; font-size: 16px; }
+  .summary-table {
+    border-collapse: collapse;
+    width: auto;
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  .summary-table th, .summary-table td {
+    border: 1px solid #ccc;
+    padding: 6px 10px;
+    text-align: center;
+  }
+  .summary-table th { background: #eee; }
+
+  @media print {
+    body { zoom: 0.9; }
+  }
+</style>
+</head>
+<body>
+  <h1>Meta, Description & Headline Comparison Report</h1>
+  <p><strong>Generated:</strong> 30-10-2025 - 09-43 PM</p>
+
+  <div class="summary">
+    <h2>📊 Summary Overview</h2>
+    <table class="summary-table">
+      <tr><th>Metric</th><th>Passed</th><th>Failed</th><th>Total</th></tr>
+      <tr><td><b>Title Match</b></td><td>33</td><td>1</td><td>34</td></tr>
+      <tr><td><b>Description Match</b></td><td>33</td><td>1</td><td>34</td></tr>
+      <tr><td><b>H1 Match</b></td><td>34</td><td>0</td><td>34</td></tr>
+      <tr><td><b>H1 Count (exactly 1)</b></td><td>34</td><td>0</td><td>34</td></tr>
+    </table>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>URL</th>
+        <th>Locale</th>
+        <th>inLanguage</th>
+        <th>Actual Title</th>
+        <th>Schema Name</th>
+        <th class="highlight-col">Title Match</th>
+        <th>Actual Description</th>
+        <th>Schema Description</th>
+        <th class="highlight-col">Description Match</th>
+        <th>Schema Headline</th>
+        <th>Actual H1 Text</th>
+        <th class="highlight-col">H1 Match</th>
+        <th>H1 Count</th>
+      </tr>
+    </thead>
+    <tbody><tr>
+        <td><a href="https://www.sit.orangetheory.com/da-dk/studio-location" target="_blank">https://www.sit.orangetheory.com/da-dk/studio-location</a></td>
+        <td>da-dk</td>
+        <td>da-DK</td>
+        <td >Globale studielokationer | Orangetheory Fitness</td>
+        <td >Globale studielokationer | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Se vores komplette liste over Orangetheory Fitness-studier i hele verden. Find et Orangetheory Fitness-studie i nærheden af dig!</td>
+        <td >Se vores komplette liste over Orangetheory Fitness-studier i hele verden. Find et Orangetheory Fitness-studie i nærheden af dig!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Globale Studios</td>
+        <td >• Globale Studios</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/de-de/studio-location" target="_blank">https://www.sit.orangetheory.com/de-de/studio-location</a></td>
+        <td>de-de</td>
+        <td>de-DE</td>
+        <td >Globale Studio-Standorte | Orangetheory Fitness</td>
+        <td >Globale Studio-Standorte | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Sehen Sie sich unsere vollständige Liste der Orangetheory Fitness-Studios auf der ganzen Welt an. Finden Sie einen Orangetheory Fitness Standort in Ihrer Nähe!</td>
+        <td >Sehen Sie sich unsere vollständige Liste der Orangetheory Fitness-Studios auf der ganzen Welt an. Finden Sie einen Orangetheory Fitness Standort in Ihrer Nähe!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Globale Studios</td>
+        <td >• Globale Studios</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-au/studio-location" target="_blank">https://www.sit.orangetheory.com/en-au/studio-location</a></td>
+        <td>en-au</td>
+        <td>en-AU</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-bh/studio-location" target="_blank">https://www.sit.orangetheory.com/en-bh/studio-location</a></td>
+        <td>en-bh</td>
+        <td>en-BH</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-ca/studio-location" target="_blank">https://www.sit.orangetheory.com/en-ca/studio-location</a></td>
+        <td>en-ca</td>
+        <td>en-CA</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-co/studio-location" target="_blank">https://www.sit.orangetheory.com/en-co/studio-location</a></td>
+        <td>en-co</td>
+        <td>en-CO</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-cr/studio-location" target="_blank">https://www.sit.orangetheory.com/en-cr/studio-location</a></td>
+        <td>en-cr</td>
+        <td>en-CR</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-de/studio-location" target="_blank">https://www.sit.orangetheory.com/en-de/studio-location</a></td>
+        <td>en-de</td>
+        <td>en-DE</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-dk/studio-location" target="_blank">https://www.sit.orangetheory.com/en-dk/studio-location</a></td>
+        <td>en-dk</td>
+        <td>en-DK</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-do/studio-location" target="_blank">https://www.sit.orangetheory.com/en-do/studio-location</a></td>
+        <td>en-do</td>
+        <td>en-DO</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-es/studio-location" target="_blank">https://www.sit.orangetheory.com/en-es/studio-location</a></td>
+        <td>en-es</td>
+        <td>en-ES</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-gb/studio-location" target="_blank">https://www.sit.orangetheory.com/en-gb/studio-location</a></td>
+        <td>en-gb</td>
+        <td>en-GB</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-gt/studio-location" target="_blank">https://www.sit.orangetheory.com/en-gt/studio-location</a></td>
+        <td>en-gt</td>
+        <td>en-GT</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-in/studio-location" target="_blank">https://www.sit.orangetheory.com/en-in/studio-location</a></td>
+        <td>en-in</td>
+        <td>en-IN</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-jp/studio-location" target="_blank">https://www.sit.orangetheory.com/en-jp/studio-location</a></td>
+        <td>en-jp</td>
+        <td>en-JP</td>
+        <td style="background-color:#fff3cd;">Global Studio Locations | Orangetheory Fitness</td>
+        <td style="background-color:#fff3cd;"><i>Missing</i></td>
+        <td class="highlight-col"><span style="color:#d32f2f;font-weight:bold;">⚠️ Mismatch - Schema Title is not detected on the Organizational Schema</span></td>
+        <td style="background-color:#fff3cd;">View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td style="background-color:#fff3cd;"><i>Missing</i></td>
+        <td class="highlight-col"><span style="color:#d32f2f;font-weight:bold;">⚠️ Mismatch - Schema Description is not detected on the Organizational Schema</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-kw/studio-location" target="_blank">https://www.sit.orangetheory.com/en-kw/studio-location</a></td>
+        <td>en-kw</td>
+        <td>en-KW</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-mx/studio-location" target="_blank">https://www.sit.orangetheory.com/en-mx/studio-location</a></td>
+        <td>en-mx</td>
+        <td>en-MX</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pa/studio-location</a></td>
+        <td>en-pa</td>
+        <td>en-PA</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pe/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pe/studio-location</a></td>
+        <td>en-pe</td>
+        <td>en-PE</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-pr/studio-location" target="_blank">https://www.sit.orangetheory.com/en-pr/studio-location</a></td>
+        <td>en-pr</td>
+        <td>en-PR</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-qa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-qa/studio-location</a></td>
+        <td>en-qa</td>
+        <td>en-QA</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-sa/studio-location" target="_blank">https://www.sit.orangetheory.com/en-sa/studio-location</a></td>
+        <td>en-sa</td>
+        <td>en-SA</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/en-us/studio-location" target="_blank">https://www.sit.orangetheory.com/en-us/studio-location</a></td>
+        <td>en-us</td>
+        <td>en-US</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td >Global Studio Locations | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td >View our complete list of Orangetheory Fitness studios around the world. Find an Orangetheory Fitness location near you!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Global Studios.</td>
+        <td >• Global Studios.</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-co/studio-location" target="_blank">https://www.sit.orangetheory.com/es-co/studio-location</a></td>
+        <td>es-co</td>
+        <td>es-CO</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-cr/studio-location" target="_blank">https://www.sit.orangetheory.com/es-cr/studio-location</a></td>
+        <td>es-cr</td>
+        <td>es-CR</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-do/studio-location" target="_blank">https://www.sit.orangetheory.com/es-do/studio-location</a></td>
+        <td>es-do</td>
+        <td>es-DO</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-es/studio-location" target="_blank">https://www.sit.orangetheory.com/es-es/studio-location</a></td>
+        <td>es-es</td>
+        <td>es-ES</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-gt/studio-location" target="_blank">https://www.sit.orangetheory.com/es-gt/studio-location</a></td>
+        <td>es-gt</td>
+        <td>es-GT</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-mx/studio-location" target="_blank">https://www.sit.orangetheory.com/es-mx/studio-location</a></td>
+        <td>es-mx</td>
+        <td>es-MX</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pa/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pa/studio-location</a></td>
+        <td>es-pa</td>
+        <td>es-PA</td>
+        <td >Ubicaciones globales del estudio | Fitness de Orangetheory</td>
+        <td >Ubicaciones globales del estudio | Fitness de Orangetheory</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Vea nuestra lista completa de estudios de Fitness de Orangetheory alrededor del mundo. ¡Encuentra un Fitness de Orangetheory cerca de ti!</td>
+        <td >Vea nuestra lista completa de estudios de Fitness de Orangetheory alrededor del mundo. ¡Encuentra un Fitness de Orangetheory cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pe/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pe/studio-location</a></td>
+        <td>es-pe</td>
+        <td>es-PE</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/es-pr/studio-location" target="_blank">https://www.sit.orangetheory.com/es-pr/studio-location</a></td>
+        <td>es-pr</td>
+        <td>es-PR</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td >Ubicación de los estudios en el mundo | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td >Consulta nuestra lista completa de estudios Orangetheory Fitness en todo el mundo. ¡Encuentra un centro Orangetheory Fitness cerca de ti!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Estudios globales</td>
+        <td >• Estudios globales</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/fr-ca/studio-location" target="_blank">https://www.sit.orangetheory.com/fr-ca/studio-location</a></td>
+        <td>fr-ca</td>
+        <td>fr-CA</td>
+        <td >Emplacements de studio global | Orangetheory Fitness</td>
+        <td >Emplacements de studio global | Orangetheory Fitness</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Consultez notre liste complète des studios Orangetheory Fitness à travers le monde. Trouvez un emplacement Orangetheory Fitness près de chez vous!</td>
+        <td >Consultez notre liste complète des studios Orangetheory Fitness à travers le monde. Trouvez un emplacement Orangetheory Fitness près de chez vous!</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >Studios Globaux</td>
+        <td >• Studios Globaux</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr>
+<tr>
+        <td><a href="https://www.sit.orangetheory.com/ja-jp/studio-location" target="_blank">https://www.sit.orangetheory.com/ja-jp/studio-location</a></td>
+        <td>ja-jp</td>
+        <td>ja-JP</td>
+        <td >世界各地のスタジオ｜オレンジセオリーフィットネス</td>
+        <td >世界各地のスタジオ｜オレンジセオリーフィットネス</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >世界中のオレンジセオリーフィットネスのスタジオ一覧です。お近くのスタジオをお探しください！</td>
+        <td >世界中のオレンジセオリーフィットネスのスタジオ一覧です。お近くのスタジオをお探しください！</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >グローバルスタジオ</td>
+        <td >• グローバルスタジオ</td>
+        <td class="highlight-col"><span style="color:#2e7d32;font-weight:bold;">✅ Match</span></td>
+        <td >1</td>
+      </tr></tbody>
+  </table>
+</body>
+</html>
